@@ -47,9 +47,9 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: seen
+username: seen-network
 repo: seen-network.github.io
-branch: master
+branch: main
 relative_source: ../
 destination: ./_site/
 # production_url:  https://seen-network.github.io/
