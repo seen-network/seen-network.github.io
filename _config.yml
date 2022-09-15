@@ -77,4 +77,4 @@ defaults:
       logo: 'assets/images/seen.logo.png'
       navigation: True
 
-exclude: ['demo_posts']
+exclude: [vendor, demo_posts]
