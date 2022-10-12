@@ -7,15 +7,15 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: "SEEN"
-description: "Saliamus ut equus"
+name: "Sex Equality and Equity Network"
+description: "Coming soon.."
 
-# short_url: 'seen-network.github.io'
+# short_url: 'seen-network.uk'
 # google_analytics: <GA-ID>
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
-url: "https://seen-network.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://seen-network.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Permalinks
 # permalink: /:title
@@ -52,7 +52,7 @@ repo: seen-network.github.io
 branch: main
 relative_source: ../
 destination: ./_site/
-# production_url:  https://seen-network.github.io/
+# production_url:  https://seen-network.uk/
 # source_url:  https://github.com/seen-network/
 
 exclude:
@@ -73,8 +73,8 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: posts # Apply the default values below only to posts
     values:
-      cover: 'assets/images/coffee-4054303_1280.jpg'
-      logo: 'assets/images/seen.logo.png'
+      cover: 'assets/images/white-background.jpg'
+      logo: 'assets/images/seen-logo-light.png'
       navigation: True
 
 exclude: [vendor, demo_posts]

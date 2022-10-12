@@ -1,8 +1,8 @@
 seen:
   username: seen
   name: SEEN Network
-  location: London, UK
-  url_full: http://seen-network.github.io
-  url: seen-network.github.io
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
   bio: "[in progress]"
-  assets: assets/images/seen.jpg
+  assets: assets/images/seen-user.png

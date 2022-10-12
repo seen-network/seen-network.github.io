@@ -2,7 +2,7 @@
 layout: page
 title: About
 navigation: True
-logo: 'assets/images/seen.logo.png'
+logo: 'assets/images/seen-logo-light.png'
 current: about
 ---
 

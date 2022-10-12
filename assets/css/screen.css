@@ -856,9 +856,9 @@ body.nav-opened .nav {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     display: block;
-    height: 80px;
+    width: 300px;
+    height: auto;
     padding: 1px 0 5px 0;
-    width: auto;
 }
 
 .menu-button {
@@ -1939,9 +1939,9 @@ body.page-template .post-title {
         padding: 5px;
     }
 
-    .blog-logo img {
+    /* .blog-logo img {
         height: 30px;
-    }
+    } */
 
     .menu-button {
         padding: 0 5px;
