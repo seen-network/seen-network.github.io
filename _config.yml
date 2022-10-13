@@ -8,9 +8,9 @@ language: 'en-uk'
 
 # Website info
 name: "Sex Equality and Equity Network"
-description: "Coming soon.."
+description: "About us.."
 
-# short_url: 'seen-network.uk'
+short_url: 'seen-network.uk'
 # google_analytics: <GA-ID>
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
