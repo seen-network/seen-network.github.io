@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'About us'
+title: 'About SEEN'
 navigation: True
 logo: 'assets/images/seen-logo-light.png'
 current: about
@@ -18,4 +18,4 @@ We also aim to be a source of expertise for staff on the protected characteristi
 
 SEEN membership is open to staff who share our values, from central government departments, agencies, and their associated public bodies including arm’s length bodies.
 
-If you would like to learn more about our mission, or to be added to our mailing list, please get in touch: [contact details available very shortly].
+If you would like to contact us to learn more about our mission, or to be added to our mailing list, **[please get in touch](/contact/)**.
