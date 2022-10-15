@@ -177,7 +177,7 @@ td, th{ padding: 0; }
 html {
     height: 100%;
     max-height: 100%;
-    font-size: 62.5%;
+    font-size: 75%;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -565,9 +565,9 @@ button {
 
 body.nav-opened .site-wrapper {
     overflow-x: hidden;
-    -webkit-transform: translate3D(-240px, 0, 0);
-        -ms-transform: translate3D(-240px, 0, 0);
-            transform: translate3D(-240px, 0, 0);
+    -webkit-transform: translate3D(-320px, 0, 0);
+        -ms-transform: translate3D(-320px, 0, 0);
+            transform: translate3D(-320px, 0, 0);
     -webkit-transition: -webkit-transform 0.3s ease;
             transition: transform 0.3s ease;
 }
@@ -611,7 +611,7 @@ body.nav-opened .nav-cover {
     position: fixed;
     top: 0;
     left: 0;
-    right: 240px;
+    right: 320px;
     bottom: 0;
     z-index: 200;
 }
@@ -622,7 +622,7 @@ body.nav-opened .nav-cover {
     right: 0;
     bottom: 0;
     z-index: 5;
-    width: 240px;
+    width: 320px;
     opacity: 0;
     background: #111;
     margin-bottom: 0;
@@ -655,7 +655,7 @@ body.nav-opened .nav {
     position: absolute;
     top: 45px;
     left: 30px;
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 100;
     text-transform: uppercase;
     color: #fff;
@@ -729,7 +729,7 @@ body.nav-opened .nav {
 .nav li a {
     text-decoration: none;
     line-height: 1.4;
-    font-size: 1.4rem;
+    font-size: 2rem;
     display: block;
     padding: 0.6rem 4%;
     overflow: hidden;
@@ -777,7 +777,7 @@ body.nav-opened .nav {
     padding: 0 20px;
     color: #111 !important; /* Overides `.nav a:link, .nav a:visited` colour */
     text-align: center;
-    font-size: 12px;
+    font-size: 18px;
     font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     text-decoration: none;
@@ -787,7 +787,7 @@ body.nav-opened .nav {
     transition: all ease 0.3s;
 }
 .subscribe-button:before {
-    font-size: 9px;
+    font-size: 14px;
     margin-right: 6px;
 }
 
@@ -873,7 +873,7 @@ body.nav-opened .nav {
     border-width: 1px;
     opacity: 1;
     text-align: center;
-    font-size: 12px;
+    font-size: 24px;
     text-transform: uppercase;
     line-height: 35px;
     white-space: nowrap;
@@ -882,7 +882,7 @@ body.nav-opened .nav {
     background-color: #222;
 }
 .menu-button:before {
-    font-size: 12px;
+    font-size: 24px;
     font-weight: bold;
     margin-right: 6px;
     position: relative;
@@ -999,7 +999,7 @@ body.nav-opened .nav {
 .post {
     position: relative;
     width: 80%;
-    max-width: 710px;
+    max-width: 940px;
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
@@ -2189,6 +2189,9 @@ body.page-template .post-title {
     }
 
 }
+
+/* custom nav tweeks */
+.nav li:before, .nav li a:after { display: none; }
 
 
 /* ==========================================================================
