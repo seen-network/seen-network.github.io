@@ -1761,6 +1761,10 @@ body.page-template .post-title {
 
 @media only screen and (max-width: 900px) {
 
+    .blog-logo img {
+        width: 250px;
+    }
+
     blockquote {
         margin-left: 0;
     }
@@ -1915,6 +1919,10 @@ body.page-template .post-title {
 
 @media only screen and (max-width: 500px) {
 
+    .blog-logo img {
+        width: 200px;
+    }
+
     .main-header {
         margin-bottom: 15px;
         height: 40vh;
@@ -1947,8 +1955,8 @@ body.page-template .post-title {
         padding: 0 5px;
         border-radius: 0;
         border-width: 0;
-        color: #2e2e2e;
-        background: transparent;
+        /* color: #2e2e2e;
+        background: transparent; */
     }
     .menu-button:hover {
         color: #2e2e2e;
@@ -2202,7 +2210,7 @@ body.page-template .post-title {
     -o-transform-origin: 50% 0;
     -webkit-transform: scale(1.2);
     -webkit-transform-origin: 50% 0;
-    background: #f7f7f7;
+    /* background: #f7f7f7; */
 }
 @media screen and (-webkit-min-device-pixel-ratio:0) {
     .post-content iframe { zoom: 1.3; }
