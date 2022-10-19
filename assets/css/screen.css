@@ -186,9 +186,9 @@ body {
     max-height: 100%;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    font-size: 2rem;
+    font-size: 1.7rem;  /* main font size - customised */
     line-height: 1.75em;
-    color: #3A4145;
+    color: #222;
     -webkit-font-feature-settings: 'kern' 1;
     -moz-font-feature-settings: 'kern' 1;
     -o-font-feature-settings: 'kern' 1;
@@ -213,6 +213,7 @@ h4, h5, h6 {
     margin: 0 0 0.4em 0;
     font-family: "Open Sans", sans-serif;
     text-rendering: geometricPrecision;
+    margin-bottom: 0.75em; /* custom */
 }
 
 h1 {
@@ -258,7 +259,15 @@ p, ul, ol, dl {
     -o-font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1;
     margin: 0 0 1.75em 0;
     text-rendering: geometricPrecision;
-}7
+}
+
+/* custom list mods */
+p + ul, p + ol { margin-top: -1em; }
+ul + p, ol + p { margin-top: 1.75em; }
+
+/* custom header mods */
+.post-content { margin-top: 2.5em; }
+.post-header { border-bottom: #d7d7d7 0.2em solid; }
 
 ol, ul {
     padding-left: 3rem;
@@ -311,7 +320,7 @@ hr {
 blockquote {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    margin: 1.75em 0 1.75em -2.2em;
+    margin: 1.75em 0 1.75em 0; /* customised */
     padding: 0 0 0 1.75em;
     border-left: #4A4A4A 0.4em solid;
 }
