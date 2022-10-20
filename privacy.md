@@ -36,7 +36,7 @@ We use the information that you have given us in order to:
 
 This information is only ever shared within the SEEN network's steering group, and only for the purpose of carrying out the actions outlined above.
 
-All personal information held is held securely and is protected. We will never reveal your identity to a third party outside our network without your consent.
+All personal information held is held securely and is protected. We will never reveal your identity to a third party outside our network steering group without your consent.
 
 #### Data removal requests
 
