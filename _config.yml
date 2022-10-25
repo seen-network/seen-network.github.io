@@ -11,8 +11,8 @@ name: "Sex Equality and Equity Network"
 description: "About us.."
 
 short_url: 'seen-network.uk'
-# google_analytics: <GA-ID>
-disqus: username
+google_analytics: 'G-M68CLZWFBN'
+# disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 url: "https://seen-network.uk" # the base hostname & protocol for your site, e.g. http://example.com
