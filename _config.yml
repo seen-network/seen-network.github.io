@@ -66,6 +66,7 @@ exclude:
   - .travis.yml
   - node_modules
   - .git
+  - drafts
 
 defaults:
   # Posts defaults
@@ -76,5 +77,3 @@ defaults:
       cover: 'assets/images/white-background.jpg'
       logo: 'assets/images/seen-logo-light.png'
       navigation: True
-
-exclude: [vendor, demo_posts]
