@@ -41,7 +41,7 @@ You can read about your rights on the website of the [Equality and Human Rights 
 
 #### What are sex-based rights?
 
-By sex-based rights we mean the rights enshrined in the Equality Act 2010 and other applicable law that relates specifically to biological sex.  Such law permits lawful discrimination in certain circumstances, provided it is a proportionate means to achieve a legitimate aim, such as to meet particular male and female needs, to correct disadvantage, or to encourage participation.  Specific examples include pregnancy and maternity rights, men’s health workshops, pay, pensions and girls-only football teams.  The protection against unlawful discrimination on the ground of sexual orientation also depends on sex, since sexual orientation is defined specifically in terms of sex.
+By sex-based rights we mean the rights enshrined in the Equality Act 2010 and other applicable law that relates specifically to biological sex.  Such law permits lawful discrimination in certain circumstances, provided it is a proportionate means to achieve a legitimate aim, such as to meet particular male and female needs, to correct disadvantage, or to encourage participation.  Specific examples include pregnancy and maternity rights, men’s health workshops, and girls-only football teams.  The protection against unlawful discrimination on the ground of sexual orientation also depends on sex, since sexual orientation is defined specifically in terms of sex.
 
 
 #### Why was SEEN set up?
