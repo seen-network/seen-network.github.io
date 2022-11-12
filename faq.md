@@ -24,7 +24,7 @@ SEEN’s values are set out in our mission statement and four guiding principles
 
 #### Who is SEEN for? 
 
-SEEN is for any colleague who shares our values as set out in our Mission Statement and Guiding Principles. SEEN is a source of support, advice and resources for colleagues who require assistance in furthering our mission (set out above).  We will also be a source of support for colleagues who experience bullying, harassment or discrimination because they share our beliefs.
+SEEN membership is for any UK civil servants and public sector staff - from central government departments, agencies, and their associated public bodies including arm’s length bodies - who share our values as set out in our Mission Statement and Guiding Principles.  SEEN is a source of support, advice and resources for colleagues who require assistance in furthering our mission (set out above).  We will also be a source of support for colleagues who experience bullying, harassment or discrimination because they share our beliefs.
 
 
 #### What do we mean by ‘sex equality and equity’?
