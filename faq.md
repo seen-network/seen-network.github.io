@@ -6,6 +6,17 @@ logo: 'assets/images/seen-logo-light.png'
 current: faq
 ---
 
+- [What is SEEN’s mission?](./#what-is-seens-mission)
+- [What are SEEN’s values?](./#what-are-seens-values)
+- [Who is SEEN for? ](./#who-is-seen-for)
+- [What do we mean by ‘sex equality and equity’?](./#what-do-we-mean-by-sex-equality-and-equity)
+- [What is the Equality Act 2010 and what are protected characteristics?](./#what-is-the-equality-act-2010-and-what-are-protected-characteristics)
+- [What are sex-based rights?](./#what-are-sex-based-rights)
+- [Why was SEEN set up?](./#why-was-seen-set-up)
+- [Is SEEN connected to any religious or faith groups or other groups? ](./#is-seen-connected-to-any-religious-or-faith-groups-or-other-groups)
+- [How does SEEN relate to other staff networks?](./#how-does-seen-relate-to-other-staff-networks)
+
+-------------------
 
 #### What is SEEN’s mission?
 
@@ -14,7 +25,7 @@ Our mission is to promote sex equality and equity between women and men so that 
 
 #### What are SEEN’s values?
 
-SEEN’s values are set out in our mission statement and four guiding principles:
+SEEN’s values are set out in our mission statement and four Guiding Principles:
 
 1. We are committed to ensuring that civil servants uphold the sex-based rights which support women’s and men’s rights and needs at work, including the protected characteristics of sex, pregnancy and maternity and sexual orientation set out in the Equality Act 2010; and that these rights are balanced against other rights, where lawful and necessary.
 2. We are committed to helping civil servants feel confident to exercise their rights under the European Convention of Human Rights to freedom of thought, conscience and religion, freedom of expression and freedom of assembly and association, provided they manifest their rights lawfully and respectfully and within the Civil Service Code.
@@ -24,7 +35,7 @@ SEEN’s values are set out in our mission statement and four guiding principles
 
 #### Who is SEEN for? 
 
-SEEN membership is for any UK civil servants and public sector staff - from central government departments, agencies, and their associated public bodies including arm’s length bodies - who share our values as set out in our Mission Statement and Guiding Principles.  SEEN is a source of support, advice and resources for colleagues who require assistance in furthering our mission (set out above).  We will also be a source of support for colleagues who experience bullying, harassment or discrimination because they share our beliefs.
+SEEN membership is for any UK civil servants and public sector staff - from central government departments, agencies, and their associated public bodies including arm’s length bodies - who share our values as set out in our [Mission Statement](./#what-is-seens-mission) and [Guiding Principles](./#what-are-seens-values).  SEEN is a source of support, advice and resources for colleagues who require assistance in furthering our mission.  We will also be a source of support for colleagues who experience bullying, harassment or discrimination because they share our beliefs.
 
 
 #### What do we mean by ‘sex equality and equity’?
