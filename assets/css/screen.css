@@ -2036,9 +2036,9 @@ body.page-template .post-title {
         line-height: 1.65em;
     }
 
-    .post-date {
+    /* .post-date {
         display: none;
-    }
+    } */
 
     .post-template .post-header,
     .page-template .post-header {
