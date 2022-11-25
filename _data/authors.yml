@@ -6,3 +6,11 @@ seen:
   url: seen-network.uk
   bio: "Posts from the network leadership team"
   assets: assets/images/seen-user.png
+unseen:
+  username: unseen
+  name: UNSEEN
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "Posts from individual SEEN members who need to remain anonymous. Any names given are pseudonyms."
+  assets: assets/images/unseen-user.png
