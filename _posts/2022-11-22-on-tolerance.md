@@ -11,8 +11,6 @@ categories: seen
 current: tolerance
 ---
 
-*[5 minute read]*
-
 ## Reflecting society
 
 The Civil Service has always been a microcosm of British society. At first it was largely white and male, along with the other public and private institutions of the day. But with each new generation the bureaucracy adapted to changing societal norms and became gradually more diverse and representative, with some of the most significant changes happening within our lifetimes.

@@ -586,6 +586,11 @@ body.nav-opened .site-wrapper {
    4. General - The main styles for the the theme
    ========================================================================== */
 
+.reading-time {
+    font-size: 0.8em;
+    color: #9EABB3;
+}
+
 /* Big cover image on the home page */
 .main-header {
     position: relative;
@@ -1770,11 +1775,6 @@ body.page-template .post-title {
     width: 45%;
     float: left;
 }
-
-.post-subtitle {
-    margin-top: -20px !important;
-}
-
 
 /* ==========================================================================
    12. Media Queries - Smaller than 900px
