@@ -8,6 +8,7 @@ tags: [network,tolerance,pluralism,philosophy,Popper]
 subclass: post
 author: seen
 categories: seen
+current: tolerance
 ---
 
 *[5 minute read]*
