@@ -14,3 +14,11 @@ unseen:
   url: seen-network.uk
   bio: "Posts from individual SEEN members who need to remain anonymous. Any names given are pseudonyms."
   assets: assets/images/unseen-user.png
+jimmy:
+  username: jimmy
+  name: Jimmy
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a civil servant in the Ministry of Defence."
+  assets: assets/images/male-user.svg
