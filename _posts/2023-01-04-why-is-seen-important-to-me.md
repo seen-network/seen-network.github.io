@@ -62,10 +62,10 @@ This network is important to me because **no other network I have found in the C
 
 #### References
 
-[^1]: https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/sexuality/datasets/sexualidentityuk
+[^1]: [https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/sexuality/datasets/sexualidentityuk](https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/sexuality/datasets/sexualidentityuk)
 
-[^2]: https://www.healthline.com/health/am-i-queer-enough
+[^2]: [https://www.healthline.com/health/am-i-queer-enough](https://www.healthline.com/health/am-i-queer-enough)
 
-[^3]: https://twitter.com/jk_rowling/status/1269389298664701952
+[^3]: [https://twitter.com/jk_rowling/status/1269389298664701952](https://twitter.com/jk_rowling/status/1269389298664701952)
 
-[^4]: http://www.back2stonewall.com/2018/05/lgbt-website-survey-finds-that-93-of-gay-men-polled-dont-want-to-be-labeled-queer.html
+[^4]: [http://www.back2stonewall.com/2018/05/lgbt-website-survey-finds-that-93-of-gay-men-polled-dont-want-to-be-labeled-queer.html](http://www.back2stonewall.com/2018/05/lgbt-website-survey-finds-that-93-of-gay-men-polled-dont-want-to-be-labeled-queer.html)
