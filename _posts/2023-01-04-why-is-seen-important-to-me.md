@@ -3,11 +3,13 @@ layout: post
 title: "Why SEEN is important to me"
 date: 2023-01-04
 future: true
-tags: ["personal experience","lesbian, gay and bisexual","sexual orientation"]
+tags: ["personal experience","lesbian, gay and bisexual","sexual orientation","launch speeches"]
 subclass: post
 author: jimmy
 categories: jimmy
 ---
+
+_[This post is the first of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October.]_
 
 Why is SEEN important to me? To explain this, I need to go back in time.
 
