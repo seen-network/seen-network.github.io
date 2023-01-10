@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why SEEN is important to me"
+title: "Why SEEN is important to me (I)"
 date: 2023-01-04
 future: true
 tags: ["personal experience","lesbian, gay and bisexual","sexual orientation","launch speeches"]

@@ -22,3 +22,11 @@ jimmy:
   url: seen-network.uk
   bio: "I am a civil servant in the Ministry of Defence."
   assets: assets/images/male-user.svg
+mary:
+  username: mary
+  name: Mary
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a senior civil servant in His Majesty's Government."
+  assets: assets/images/female-user.svg
