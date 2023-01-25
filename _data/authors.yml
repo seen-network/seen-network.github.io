@@ -30,3 +30,11 @@ mary:
   url: seen-network.uk
   bio: "I am a senior civil servant in His Majesty's Government. Mary is a pseudonym."
   assets: assets/images/female-user.svg
+louise:
+  username: louise
+  name: Louise
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a civil servant in the Ministry of Justice."
+  assets: assets/images/female-user.svg
