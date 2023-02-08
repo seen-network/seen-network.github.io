@@ -18,6 +18,6 @@ As a part of our mission we want all civil servants to feel safe to exercise the
 
 We also aim to be a source of expertise for staff on the protected characteristics of sex, pregnancy and maternity, and sexual orientation, as well as the importance of taking these fully into account to meet staff rights and needs.
 
-SEEN membership is open to UK civil servants and public sector staff - from central government departments, agencies, and their associated public bodies including arm’s length bodies - who support our mission and share our values.
+SEEN membership is open to UK civil servants and public sector staff - from central and devolved government departments, agencies, and their associated public bodies including arm’s length bodies - who support our mission and share our values.
 
 If you would like to contact us, learn more about our mission or membership, or be added to our mailing list, **[please get in touch](/contact/)**.  See also our **[FAQ page](/faq/)**.

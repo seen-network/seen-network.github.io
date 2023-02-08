@@ -22,3 +22,7 @@ We’re looking forward to the journey ahead, and remain resolute in our commitm
 Exciting times ahead.
 
 SEEN
+
+------------
+
+8 Feb 2023 edit: On the basis of advice from the Cabinet Office we amend the eligibility paragraph from "local and devolved governments" to read "local governments".  Civil servants in the devolved governments are in fact eligible for SEEN membership.
