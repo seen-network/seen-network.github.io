@@ -11,7 +11,7 @@ name: "Sex Equality and Equity Network"
 description: "Sex Equality and Equity Network"
 
 short_url: 'seen-network.uk'
-google_analytics: 'G-M68CLZWFBN'
+# google_analytics: ''
 # disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /

@@ -31,7 +31,10 @@
     {% include head.html %}
 
     <!-- Add Google Analytics  -->
-    {% include analytics.html %}
+    {% if site.google_analytics %}
+        {% include analytics.html %}
+    {% endif %}
+
 </head>
 <body class="{% if paginator.page > 1 %}paged archive-template{% elsif page.class %}{{ page.class }}{% else %}home-template{% endif %} nav-closed">
 
