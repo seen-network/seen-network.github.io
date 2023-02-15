@@ -17,7 +17,7 @@ Male homosexuality was explicitly outlawed in Britain (well, actually the Kingdo
 
 Records of Scotland's legal history prior to the union with England are more hazy, but we do know in Scotland the first prosecution for 'sodomy' that led to the execution of two men was in 1570, when John Litster and John Swann were strangled and then burnt at the stake.[^2]
 
-In England, in the first 100 years of the Buggery Act's enforcement, only one man was executed, Walter Hungerford, and as he was already on trial for treason and heresy. The charge of buggery was added to 'humiliate' him more prior to his execution. Prosecutions for buggery where the death penalty was handed down remained rare until 1700, and only became more common after the year 1800. In the period between 1806 and 1861, there were 8921 prosecutions for buggery in England and Wales and 404 death sentences were issued, though only 56 men were executed. The last two men executed for homosexual acts in England and Wales were John Smith and James Pratt, in 1835.
+In England, in the first 100 years of the Buggery Act's enforcement, only one man was executed, Walter Hungerford, and as he was already on trial for treason and heresy the charge of buggery was added to 'humiliate' him more prior to his execution. Prosecutions for buggery where the death penalty was handed down remained rare until 1700, and only became more common after the year 1800. In the period between 1806 and 1861, there were 8921 prosecutions for buggery in England and Wales and 404 death sentences were issued, though only 56 men were executed. The last two men executed for homosexual acts in England and Wales were John Smith and James Pratt, in 1835.
 
 The ramping up of prosecutions for 'buggery' coincided with a growing subculture of homosexual men, particularly in larger cities and specifically in London. 'Molly Houses' were both secret bars and taverns for homosexual men to meet, and frequently were also brothels where men could buy sex from other men. Contemporary accounts of Molly Houses and their goings on often relied on the oft-quoted cliché that homosexual men are not real men, and the language used would today be seen as both homophobic and misogynistic. The 18<sup>th</sup> century journalist Ned Ward stated,
 
@@ -69,7 +69,7 @@ In 1994, Conservative MP Edwina Currie tabled an amendment to the Sexual Offence
 
 1997 saw radical change in the UK when Tony Blair's New Labour took power to the sound of 'Things Can Only Get Better'. More advances in gay rights came at the turn of the new millennium. While Edwina Curry had been unsuccessful in her efforts at equalising age of consent laws, Blair's Labour government did so with the Sexual Offences (Amendment) Act 2000, with Jack Straw playing a very key part in this move.
 
-'Section 28' was also repealed in the year 2000, and the ban on gay men, lesbians and bisexual people serving in the military was lifted. While in recent years, the organisation 'Stonewall' has become hugely controversial as its core mission has significantly changed, it is undeniable that at the time they were hugely instrumental in the military ban being overturned.
+'Section 28' was repealed in the year 2000 in Scotland and in 2003 in England and Wales, while the ban on gay men, lesbians and bisexual people serving in the military was lifted in 2000. While in recent years, the organisation 'Stonewall' has become hugely controversial as its core mission has significantly changed, it is undeniable that at the time they were hugely instrumental in the military ban being overturned.
 
 In 2002, Blair's government passed the Adoption and Children Act which made it legal for same-sex couples to adopt children, and in 2004 Civil Partnerships were introduced, allowing same-sex couples to have their relationship legally recognised and provide almost all the benefits of marriage. Blair was cautious about introducing full blown 'gay marriage' and at the time Civil Partnerships were seen by many as an acceptable compromise. Stonewall UK famously felt Civil Partnerships were adequate and for many years following refused to support calls for same-sex marriage. Of course, gay and lesbian people are not a monolith, and some supported gay marriage while others were opposed.. From conservatives at one end who felt, despite the fact they were gay, marriage should only be for a man and woman - to radicals at the other end who felt LGB people (gay men in particular) should not 'ape' heteronormativity at all or even have monogamous relationships.
 
@@ -92,6 +92,7 @@ For those that attended my speech at the SEEN launch event, or who have read the
 - [Military marks 20 years since homosexuality ban was lifted (Sky News)](https://news.sky.com/story/military-marks-20-years-since-homosexuality-ban-was-lifted-11906701)
 - [Illegal to be gay - Scotland's history (BBC News)](https://www.bbc.co.uk/news/uk-scotland-40731733)
 
+_15 Feb 2023: corrected Section 28 Sentence repeal year for England and Wales, and added Scotland repeal year._
 
 #### References
 
@@ -125,4 +126,4 @@ For those that attended my speech at the SEEN launch event, or who have read the
 
 [^15]: [https://publications.parliament.uk/pa/cm199394/cmhansrd/1994-02-21/Debate-12.html](https://publications.parliament.uk/pa/cm199394/cmhansrd/1994-02-21/Debate-12.html)
 
-[^16]: [https://seen-network.uk/posts/2023-01-04-why-is-seen-important-to-me/](https://seen-network.uk/posts/2023-01-04-why-is-seen-important-to-me/)
+[^16]: [https://seen-network.uk/posts/2023-01-04-why-is-seen-important-to-me/](/posts/2023-01-04-why-is-seen-important-to-me/)
