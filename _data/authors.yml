@@ -38,3 +38,11 @@ louise:
   url: seen-network.uk
   bio: "I am a civil servant in the Ministry of Justice."
   assets: assets/images/female-user.svg
+bethany:
+  username: bethany
+  name: Bethany
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a civil service lawyer. Bethany is a pseudonym."
+  assets: assets/images/female-user.svg
