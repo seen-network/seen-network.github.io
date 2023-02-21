@@ -7,6 +7,8 @@ tags: ["lesbian, gay and bisexual","sexual orientation","biography"]
 subclass: post
 author: bethany
 categories: bethany
+cover: assets/images/Willem_Arondeus_-_Salome_-_Metropolitan_Museum.jpg
+logo: 'assets/images/seen-logo-dark.png'
 ---
 
 This LGBT History Month we would like to invite a celebration of some lesser known heroes who don't always feature on the mainstream narrative.
