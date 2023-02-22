@@ -32,7 +32,10 @@ current: author
                     <div class="img" style="background-image: url({{ site.baseurl }}{{ author[1].assets }})"><span class="hidden">{{ author[1].name }}'s Picture</span></div>
                 </figure>
                 {% endif %}
-                <h1 class="author-title">{{ author[1].name }}</h1>
+                <h1 class="author-title">{{ author[1].name }} *</h1>
+                <div class="author-note">
+                    <p style="font-size:0.8em;">* All author names are genuine unless specified as a pseudonym or posted by <i>UNSEEN</i></p>
+                </div>
                 {% if author[1].bio %}
                     <div style="display:inline; text-align: justify; text-justify: inter-word;">
                         <h2 class="author-bio">{{ author[1].bio }}</h2>
