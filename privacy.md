@@ -1,110 +1,88 @@
 ---
 layout: page
-title: 'Privacy policy'
+title: 'Privacy'
 navigation: True
 logo: 'assets/images/seen-logo-light.png'
 current: privacy
 ---
 
-#### SEEN
+This notice sets out how we will use your personal data, and your rights. It is made under Articles 13 and/or 14 of the UK General Data Protection Regulation (UK GDPR). 
 
-SEEN is a volunteer-led employee network for the UK Civil Service and other public sector staff from arm’s length and other public sector bodies. We follow the Civil Service Code and Civil Service policies and procedures.
+### Your data 
 
-This policy explains how we use any personal information we collect about you when you use this website, register as a member of our network or take part in any events that we hold or programmes of work that we may offer in the future.
+#### Purpose
 
-#### Our contact details
+The purposes for which we are processing your personal data are: 
+- to establish and run the cross-Whitehall Sex Equality and Equity Network. This is a Cabinet Office-approved officially recognised staff network working to defend sex-based rights of employees. 
+- to invite expressions of membership interest via the SEEN website or to subscribers
+- to operate the SEEN website
+- to formally invite civil servants to join the network and to manage their consent
+- to communicate network business to SEEN members, communicating network business to subscribers to our mailing list. 
+- to hold events, whether online and face to face
+- to challenge poor treatment of members where they ask us to challenge systemic issues that are considered to impact SEEN members
+- to protect our members from harassment 
+- to collect demographic data on members, or on their opinions. This data will only be collected and reported in anonymous form.
 
-- **Name:** Sex Equality and Equity Network (SEEN), a cross-government civil service staff network
-- **Address:** c/o the SEEN Data Controller (Cabinet Office), 70 Whitehall, London SW1A 2AS
-- **Phone number:** To be confirmed
-- **Email:** To get in touch please message us via the [Contact form](/contact) and we will respond by email. Please provide a work email address as we may not respond to messages that give private email addresses.
 
-#### The type of personal information we collect
+#### The data
 
-We currently collect and process the following information:
-- Work email address
-- Name
-- Department
+We will process the following personal data: 
+- For members: full name, employer, email address, demographic data, lived experience of members, and workplace issues if members request support. 
+- For subscribers: email address; inferred geo-location, whether emails are opened, and whether links are clicked. 
+- For website users: ClientID, IP address, interactions with the website. Please note that we cannot identify you from this data and it is not therefore personal data.
+- For correspondents: name, email address, issue raised. 
 
-Under the UK General Data Protection Regulation (UK GDPR), the lawful basis we rely on for processing this information is your consent.
 
-You are able to withdraw your consent at any time. You can do this by contacting the SEEN Steering Group via the Contact form or by writing to the address above. Please note the instructions in ['Email'](#our-contact-details) above.
+#### Legal basis of processing 
 
-We do not collect sensitive personal information, but if you volunteer it on the network (e.g. in a forum post, a blog or published meeting minutes), our legal basis for processing your sensitive personal data is because you consent to us doing so.
+The legal basis for processing your data is your consent. 
 
-#### How we get the personal information and why we have it
+If we receive harassment, we reserve the right to pass the personal data of harassers to the appropriate authorities, such as an employer or the police. In such cases our lawful basis for sharing your data is our legitimate interests in protecting our members from harassment. 
 
-The personal information we process is provided to us directly by you for the following reasons:
-- to message us or submit an enquiry,
-- to add you to our mailing list,
-- to request further information about SEEN membership,
-- a combination of the above.
+Sensitive personal data is personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation. We collect sensitive special category data to on a protected philosophical belief for those signing up to our core values, and we also collect sensitive special category data about demographics of members for the purpose of reporting. We may also receive sensitive special category data about sexuality where members are seeking support for workplace issues. 
 
-We use the information that you have given us in order to:
-- respond to your message or enquiry;
-- (if you request it) email you with network updates (for example new content on our website);
-- (if you request it) email you information about network membership;
-- (if you are a member) email you about your membership or network business and activities;
-- to maintain a list of network members;
-- to invite members to meetings and events and to circulate related minutes and information as appropriate; 
-- to share resources and send you information about any events we are holding or any events you may register for;
-- to deliver any programmes of work in accordance with our mission and guiding principles;
-- to understand who uses our website and resources, attends any events we may hold and seeks support from us, so that we can plan our work to be relevant to our membership; and
-- to improve our website and email alerts.
+The legal basis for processing your sensitive personal data is: 
+- you have freely and explicitly given your consent (para 29, sch.1, Data Protection Act 2018), or
+- processing is of data concerning ethnicity, religious or philosophical belief, health including disability or sexual orientation, and it is necessary for the purposes of identifying or keeping under review the existence or absence of equality of opportunity or treatment between groups of people with a view to enabling such equality to be promoted or maintained (para 8, sch.1, Data Protection Act 2018).
 
-This information is only ever shared within the SEEN network's steering group, and only for the purpose of carrying out the actions outlined above.
+#### Recipients
 
-We may also process Aggregated Data from your personal data but this data does not reveal your identity and as such in itself is not personal data. An example of this is where we review your Usage Data to work out the percentage of website users using a specific feature of our site. If we link the Aggregated Data with your personal data so that you can be identified from it, then it is treated as personal data.
+Your membership or subscription will be kept completely confidential. Only the senior leadership team of SEEN will have access to membership lists, and that access is restricted to the minimum number of members. 
 
-#### Data removal requests
+If you wish us to assist you with a workplace issue and that requires that you be identified to your employer, we will only do that with your consent. 
 
-Upon request we will at any time:
-- remove anyone from our mailing list,
-- revoke a membership,
-- remove any personal data that we hold.
+The data of those engaged in harassment will be shared with the appropriate authority whether that be an employer or the police. 
 
-#### How we store your personal information
+As your personal data will be stored on our IT infrastructure it will also be shared with our data processors who provide website and mailing list management services. 
 
-All personal information held is held securely and is protected. We will never reveal your identity to a third party outside our network steering group without your consent.
+#### Retention 
 
-We will dispose your information:
-- (if you are a member) within 6 months your notice to cancel your network membership;
-- (if you are on our mailing list) within 6 months of your unsubscription from our mailing list;
-- (if you contact us by our Contact form) within 6 months of receipt of your contact request;
-- within 1 month of a data removal request.
+Your personal data will be kept by us for as long as you wish to remain a member of subscriber. If you withdraw your consent we will endeavour to remove your data from our systems within one month. 
 
-We currently use several third party services to store and use data you provide to us, so that we can provide our services to you. [These are intended to be temporary until we are allocated a gov.uk staff email address.]  These include but are not limited to:
+Data from correspondents will be held for only as long as it is required, and this will be reviewed at least annually. 
 
-- GOV.UK Notify for bulk email
-- Google Workspace for our email and office software
+### Your rights 
 
-#### Your data protection rights
+You have the right to withdraw consent to the processing of your personal data at any time.
 
-Under data protection law, you have rights including:
+You have the right to request information about how your personal data are processed, and to request a copy of that personal data. 
 
-- **Your right of access** - You have the right to ask us for copies of your personal information. 
-- **Your right to rectification** - You have the right to ask us to rectify personal information you think is inaccurate. You also have the right to ask us to complete information you think is incomplete. 
-- **Your right to erasure** - You have the right to ask us to erase your personal information in certain circumstances. 
-- **Your right to restriction of processing** - You have the right to ask us to restrict the processing of your personal information in certain circumstances. 
-- **Your right to object to processing** - You have the the right to object to the processing of your personal information in certain circumstances.
-- **Your right to data portability** - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you, in certain circumstances.
-- You are not required to pay any charge for exercising your rights. If you make a request, we have one month to respond to you.
+You have the right to request that any inaccuracies in your personal data are rectified without delay. 
 
-Please contact us on the [Contact form](/contact/) if you wish to make a request.
+You have the right to request a copy of any personal data you have provided, and for this to be provided in a structured, commonly used and machine-readable format.
 
-#### How to complain
+### International transfers 
 
-If you have any concerns about our use of your personal information, you can make a complaint to us c/o the SEEN Data Controller (Cabinet Office), 70 Whitehall, London SW1A 2AS.
+As your personal data is stored on our IT infrastructure, and shared with our data processors, it may be transferred and stored securely outside the UK. Where that is the case it will be subject to equivalent legal protection through an adequacy decision or reliance on Standard Contractual Clauses or an International Data Transfer Agreement.
 
-You can also complain to the ICO if you are unhappy with how we have used your data.
+### Complaints 
 
-The ICO’s address:            
-Information Commissioner’s Office
-Wycliffe House
-Water Lane
-Wilmslow
-Cheshire
-SK9 5AF
+If you consider that your personal data has been misused or mishandled, you may make a complaint to the Information Commissioner, who is an independent regulator.  The Information Commissioner can be contacted at:  Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, or 0303 123 1113, or [icocasework@ico.org.uk](mailto:icocasework@ico.org.uk).  Any complaint to the Information Commissioner is without prejudice to your right to seek redress through the courts. 
 
-Helpline number: 0303 123 1113
-ICO website: https://www.ico.org.uk
+### Contact details 
+
+The data controller for your personal data is the Cabinet Office. The contact details for the data controller are: Cabinet Office, 70 Whitehall, London, SW1A 2AS, or 0207 276 1234, or [contact](https://www.gov.uk/guidance/contact-the-cabinet-office). 
+
+The contact details for the data controller’s Data Protection Officer are: [dpo@cabinetoffice.gov.uk](mailto:dpo@cabinetoffice.gov.uk). 
+
+The Data Protection Officer provides independent advice and monitoring of Cabinet Office’s use of personal information.
