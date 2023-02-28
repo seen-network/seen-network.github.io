@@ -3,7 +3,7 @@ layout: post
 title: "Why SEEN is important to me (IV)"
 date: 2023-02-27
 future: true
-tags: ["personal experience","coming of age","launch speeches"]
+tags: ["personal experience","neurodiverse","coming of age","launch speeches"]
 subclass: 'post'
 author: unseen
 categories: unseen
