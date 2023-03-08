@@ -9,6 +9,7 @@ current: faq
 - [What is SEEN’s mission?](./#what-is-seens-mission)
 - [What are SEEN’s values?](./#what-are-seens-values)
 - [Who is SEEN for? ](./#who-is-seen-for)
+- [How can SEEN help me?](./#how-can-seen-help-you)
 - [What do we mean by ‘sex equality and equity’?](./#what-do-we-mean-by-sex-equality-and-equity)
 - [What is the Equality Act 2010 and what are protected characteristics?](./#what-is-the-equality-act-2010-and-what-are-protected-characteristics)
 - [What are sex-based rights?](./#what-are-sex-based-rights)
@@ -35,9 +36,9 @@ SEEN’s values are set out in our mission statement and four Guiding Principles
 
 #### Who is SEEN for? 
 
-SEEN membership is for any UK civil servants and public sector staff - from central and devolved government departments, agencies, and their associated public bodies including arm’s length bodies - who share our values as set out in our [Mission Statement](./#what-is-seens-mission) and [Guiding Principles](./#what-are-seens-values).  SEEN is a source of support, advice and resources for colleagues who require assistance in furthering our mission.  We will also be a source of support for colleagues who experience bullying, harassment or discrimination because they share our beliefs.
+SEEN membership is for any UK civil servants and public sector staff - from central and devolved government departments, agencies, and their associated public bodies including arm’s length bodies - who share our values as set out in our [Mission Statement](./#what-is-seens-mission) and [Guiding Principles](./#what-are-seens-values).
 
-Unfortunately Civil Service rules do not allow SEEN to extend membership to:
+Unfortunately Civil Service rules do **not** allow SEEN to extend membership to:
 - local government
 - NHS trusts, including doctors, nurses and hospital staff
 - teachers and school staff
@@ -47,6 +48,12 @@ Unfortunately Civil Service rules do not allow SEEN to extend membership to:
 - private sector
 
 If you are not eligible to join us, please feel free to make use any SEEN ideas or materials from our website to help you set up your own staff network. Best of luck and let us know how you get on.
+
+
+#### How can SEEN help you?
+
+SEEN is a source of support, advice and resources for colleagues who require assistance in furthering our mission.  We will also be a source of support for colleagues who experience bullying, harassment or discrimination because they share our beliefs.  Please note however that SEEN is not a union, and there are limits in what we can do.
+
 
 #### What do we mean by ‘sex equality and equity’?
 
