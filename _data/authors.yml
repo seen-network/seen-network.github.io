@@ -46,3 +46,12 @@ bethany:
   url: seen-network.uk
   bio: "I am a civil service lawyer. Bethany is a pseudonym."
   assets: assets/images/female-user.svg
+ritchie:
+  username: ritchie
+  name: Ritchie
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a civil servant."
+  assets: assets/images/male-user.svg
+  
