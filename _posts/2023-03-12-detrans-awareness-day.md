@@ -28,9 +28,9 @@ For Detrans awareness day this year, SEEN Steering Group member Jimmy spoke to o
 
 ------------------------
 
-Jimmy: For Detrans Awareness Day this year (12^th^ March) one of our members wanted to talk about his lived experience as a Civil Servant and how his transition and subsequent detransition affected his working life. His name is Ritchie Herron. Ritchie, can you tell us briefly about your history with the Civil Service?
+Jimmy: For Detrans Awareness Day this year (12<sup>th</sup> March) one of our members wanted to talk about his lived experience as a Civil Servant and how his transition and subsequent detransition affected his working life. His name is Ritchie Herron. Ritchie, can you tell us briefly about your history with the Civil Service?
 
-Ritchie: Yes, thanks for having me along to share my story. I started in the Civil Service in 2006 a few months after my 19^th^ birthday. I was fresh faced and just out of college! I began working in a contact centre, an AO role. I was in that role for a long time, 14 years! I got a promotion to EO in 2020 and moved to HR in a business support role, then last year -- April 2022 -- I got a promotion to HEO, to my current role in potential risks posed by new and emerging technologies. I'm already looking at and working towards my next promotion, I'm really driven now and just going for it!
+Ritchie: Yes, thanks for having me along to share my story. I started in the Civil Service in 2006 a few months after my 19<sup>th</sup> birthday. I was fresh faced and just out of college! I began working in a contact centre, an AO role. I was in that role for a long time, 14 years! I got a promotion to EO in 2020 and moved to HR in a business support role, then last year -- April 2022 -- I got a promotion to HEO, to my current role in potential risks posed by new and emerging technologies. I'm already looking at and working towards my next promotion, I'm really driven now and just going for it!
 
 Jimmy: So working for the Civil Service for almost 20 years, has it overall been a positive experience for you?
 
@@ -108,7 +108,7 @@ Ritchie: Yeah they do but.... They are not coming from a malicious place. They a
 
 Jimmy: Thanks Ritchie, you've shared a lot with us today but also I'd like to say it's no secret that you've become something of a public figure, and have spoken out and done a number of interviews where you try to raise awareness of detransitioners and their stories. I know a lot of the wider issues that you've not talked about today as we've mainly focused on work, you have talked about in great detail elsewhere. So are there any particular interviews you'd like to signpost so people can find out more about your experience?
 
-Ritchie: [Blair] [White](https://www.youtube.com/watch?v=Gj3qA2A_z3w), [Lotus Eaters](https://www.youtube.com/watch?v=bR-xRZBN1AM), and [Viva Frei](https://www.youtube.com/watch?v=5_cNVkvz7ZM) -- they were really in depth.
+Ritchie: [Blair] [White](https://www.youtube.com/watch?v=Gj3qA2A_z3w), and [Viva Frei](https://www.youtube.com/watch?v=5_cNVkvz7ZM) -- they were really in depth.
 
 Jimmy: Thanks Ritchie I think it's really important for people to hear some of your wider experiences and in more detail, and I -- I feel like I know so much about you! Not from when we've talked before but from all the interviews with you I've watched and listened to, and from reading [your substack](https://tullipr.substack.com)! But thanks Ritchie, thanks for your time today and we're really glad to have given you this opportunity to discuss your lived experience specifically with your colleagues across the Civil Service. Is there any final message you'd like to leave us with!
 
