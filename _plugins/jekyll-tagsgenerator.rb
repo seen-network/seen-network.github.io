@@ -1,3 +1,4 @@
+require 'slugify'
 module Jekyll
 
   class TagsGenerator < Generator
@@ -17,7 +18,7 @@ module Jekyll
     end
 
     def atomize(site, type, posts)
-      path = "/tag/#{posts[0]}"
+      path = "/tag/" + posts[0].slugify
       atom = AtomPageTags.new(site, site.source, path, type, posts[0], posts[1])
       site.pages << atom
     end
@@ -26,7 +27,7 @@ module Jekyll
       pages = Jekyll::Paginate::Pager.calculate_pages(posts[1], site.config['paginate'].to_i)
       (1..pages).each do |num_page|
         pager = Jekyll::Paginate::Pager.new(site, num_page, posts[1], pages)
-        path = "/tag/#{posts[0]}"
+        path = "/tag/" + posts[0].slugify
         if num_page > 1
           path = path + "/page#{num_page}"
         end
@@ -57,10 +58,10 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = 'rss.xml'
+      @name = 'feed.xml'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), "tag.xml")
+      self.read_yaml(File.join(base, '_layouts'), "feed.xml")
       self.data[type] = val
       self.data["grouptype"] = type
       self.data["posts"] = posts[0..9]

@@ -4,9 +4,12 @@ title: "Zero tolerance for Female Genital Mutilation"
 date: 2023-02-06
 future: true
 tags: ["violence against women and girls"]
-subclass: post
 author: seen
 categories: seen
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/fgm-zero-tolerance.jpg'
 ---
 
 6th February is the UN’s International Day of Zero Tolerance for Female Genital Mutilation.
@@ -36,3 +39,5 @@ Here are links to the sources for the information above. You can also use these 
 - [https://www.saverauk.co.uk/information-support/about-savera-uk/](https://www.saverauk.co.uk/information-support/about-savera-uk/)
 - [https://www.filia.org.uk/latest-news/2020/11/27/hibo-wardere-one-womans-fight-against-fgm](https://www.filia.org.uk/latest-news/2020/11/27/hibo-wardere-one-womans-fight-against-fgm)
 - [https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation](https://www.who.int/news-room/fact-sheets/detail/female-genital-mutilation)
+
+**Cover image:**  "International Day for zero tolerance against Female Genital Mutilation" by ALDE Group is licensed under CC BY-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/2.0/?ref=openverse. 

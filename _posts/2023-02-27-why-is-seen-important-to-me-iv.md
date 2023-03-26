@@ -4,9 +4,12 @@ title: "Why SEEN is important to me (IV)"
 date: 2023-02-27
 future: true
 tags: ["personal experience","neurodiverse","coming of age","launch speeches"]
-subclass: 'post'
 author: unseen
 categories: unseen
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/woman-thinking.jpg'
 ---
 
 _[This post is the last of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October. The author wishes to remain anonymous.]_
@@ -66,3 +69,5 @@ No one should lie, even if those lies are designed to be kind.
 No one – especially children – should ever be encouraged to believe the lie that they can change sex, and that damaging their bodies will take away their unhappiness.  Lies are complex structures that require constant complex shoring up.  And however hard we try, everyone eventually comes to understand that they have been lied to, and that is a terrible thing.
 
 Of all the kindness that I have received in life, gentleness and honesty are among those I most cherish.  And we owe the most vulnerable the respect of honesty, of speaking the truth.  Everyone deserves that gift.
+
+**Cover image:**  "Thinking woman" by pacogaitero is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse.

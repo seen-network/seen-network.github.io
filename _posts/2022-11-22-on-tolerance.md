@@ -5,10 +5,13 @@ subtitle: "Why SEEN exists and has a place within the Civil Service"
 date: 2022-11-22
 future: true
 tags: [network,tolerance,pluralism,philosophy,Popper]
-subclass: post
 author: seen
 categories: seen
 current: tolerance
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/exhibition-2944064_1280.jpg'
 ---
 
 ## Reflecting society
@@ -53,6 +56,8 @@ As Civil Servants we are bound by the Civil Service Code which requires politica
 
 The 2022 Civil Service Diversity and Inclusion Strategy[^12] makes a specific commitment to challenging groupthink and inspiring a greater diversity of thinking. SEEN is committed to working to ensure that departmental policies for human resources and diversity and inclusion, as well as their implementation, reflect this commitment. If you support our [mission and values](/faq/#what-is-seens-mission) consider [joining us](/contact/).
 
+[Cover image: [source](https://pixabay.com/photos/exhibition-visitors-gallery-viewer-2944064/), [licence](https://pixabay.com/service/terms/)]
+
 -----------------------
 
 #### References
@@ -80,3 +85,4 @@ The 2022 Civil Service Diversity and Inclusion Strategy[^12] makes a specific co
 [^11]: [FAQ: What is the Equality Act 2010 and what are protected characteristics?](/faq/#what-is-the-equality-act-2010-and-what-are-protected-characteristics)
 
 [^12]: [https://www.gov.uk/government/publications/civil-service-diversity-and-inclusion-strategy-2022-to-2025/civil-service-diversity-and-inclusion-strategy-2022-to-2025-html](https://www.gov.uk/government/publications/civil-service-diversity-and-inclusion-strategy-2022-to-2025/civil-service-diversity-and-inclusion-strategy-2022-to-2025-html)
+

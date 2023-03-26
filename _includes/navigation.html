@@ -1,20 +1,7 @@
-<div class="nav">
-    <h3 class="nav-title">Menu</h3>
-    <a href="#" class="nav-close">
-        <span class="hidden">Close</span>
-    </a>
-    <ul>
-        <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">Home</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">About</a></li>
-        <li class="nav-faq {% if page.current == 'faq' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}faq">FAQs</a></li>
-        <li class="nav-tolerance {% if page.current == 'tolerance' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}posts/2022-11-22-on-tolerance">On tolerance</a></li>
-        <li class="nav-contact {% if page.current == 'contact' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}contact">Contact</a></li>
-        <li class="nav-privacy {% if page.current == 'privacy' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}privacy">Privacy</a></li>
-        <li class="nav-seen {% if page.url contains '/seen' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/seen">SEEN</a></li>
-        <li class="nav-unseen {% if page.url contains '/unseen' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/unseen">UNSEEN</a></li>
-
-        <li><a href="https://twitter.com/seen_network/" target="_blank"><i class="fa fa-twitter" style="font-size:24px; color:#777;"></i></a></li>
-    </ul>
-    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
-</div>
-<span class="nav-cover"></span>
+<ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="{{site.baseurl}}">Home</a></li>
+    <li class="nav-about" role="menuitem"><a href="{{site.baseurl}}about/">About</a></li>
+    <li class="nav-faq" role="menuitem"><a href="{{site.baseurl}}faq/">FAQ</a></li>
+    <li class="nav-contact" role="menuitem"><a href="{{site.baseurl}}contact/">Contact</a></li>
+    <li class="nav-tolerance" role="menuitem"><a href="{{site.baseurl}}posts/2022-11-22-on-tolerance/">Tolerance</a></li>
+</ul>

@@ -3,10 +3,13 @@ layout: post
 title: "Why SEEN is important to me (I)"
 date: 2023-01-04
 future: true
-tags: ["personal experience","lesbian, gay and bisexual","sexual orientation","coming of age","launch speeches"]
-subclass: post
+tags: ["personal experience","lesbian gay and bisexual","sexual orientation","coming of age","launch speeches"]
 author: jimmy
 categories: jimmy
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/man-thinking.jpg'
 ---
 
 _[This post is the first of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October.]_
@@ -59,6 +62,9 @@ My experience of other staff networks has sadly been that I do not always have a
 And SEEN allows me to express this most basic fact. And that is why SEEN is of such importance to me. 
 
 This network is important to me because **no other network I have found in the Civil Service allows me to discuss or describe my lived experience or talk about any of the above points.**  I look to SEEN to give me a voice as a homosexual man, same sex attracted who believes in the reality of sex.
+
+**Cover image:**   "Deep in Thought" by kreg.steppe is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse. 
+
 
 -----------------------
 

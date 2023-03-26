@@ -4,6 +4,8 @@ title: 'Contact SEEN'
 navigation: True
 logo: 'assets/images/seen-logo-light.png'
 current: contact
+class: page-template
+subclass: 'post page'
 ---
 
 Use the form below to ask to join our mailing list for website updates, request information about our network, or to message us or make an enquiry (if not covered by our **[FAQs](/faq/)**). If you are interested in **SEEN membership** please first see our [guidance on who can join](/faq/#who-is-seen-for). Our **[privacy policy](/privacy/)** details how your data will be handled.

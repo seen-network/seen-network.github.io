@@ -1,9 +1,11 @@
 ---
 layout: page
 title: 'About SEEN'
-navigation: True
+navigation: true
 logo: 'assets/images/seen-logo-light.png'
 current: about
+class: page-template
+subclass: 'post page'
 ---
 
 We are happy to announce the launch of our new UK cross-government staff network, the _Sex Equality and Equity Network_.

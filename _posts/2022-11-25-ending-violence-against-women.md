@@ -5,9 +5,12 @@ subtitle: "No equality without freedom. No freedom without freedom from fear of 
 date: 2022-11-25
 future: true
 tags: ["personal experience","violence against women and girls"]
-subclass: 'post'
 author: unseen
 categories: unseen
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/malala.jpg'
 ---
 
 We like to think that in the UK we have equality between the sexes now. On the statute book, we mostly do. But can we ever be equal while women and girls live our lives in fear of violence from men? Do we even think about this? Or have we just accepted that male violence against women and girls has always been normal and always will be? Women and girls plan our daily lives in anticipation of sexual assault, rape and beating. Is it an instinct we are born with, because of our female sex, that comes with our female reproductive system? Or does it begin that day our mother first tells us to watch out for strange men (what does she mean?), or the day we watch the 5 o’clock news after cartoon-time and see the photo of a woman murdered by her husband?
@@ -33,3 +36,5 @@ This article is written for the annual International Day for the Elimination of 
 - Donate to women’s refuges and other charities which support women and children escaping violence. 
 - Learn how to intervene when you witness violence - [https://rapecrisis.org.uk/get-informed/what-to-do-if-you-see-sexual-violence/](https://rapecrisis.org.uk/get-informed/what-to-do-if-you-see-sexual-violence/)
 - Join men against male violence with White Ribbon UK - [https://www.whiteribbon.org.uk/](https://www.whiteribbon.org.uk/)
+
+**Cover image:** "GA72 - EU and UN launch Spotlight Initiative to eliminate violence against women and girls" by UN Women Gallery is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse. 

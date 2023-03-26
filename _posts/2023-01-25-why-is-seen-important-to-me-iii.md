@@ -4,9 +4,12 @@ title: "Why SEEN is important to me (III)"
 date: 2023-01-25
 future: true
 tags: ["personal experience","language","launch speeches"]
-subclass: post
 author: louise
 categories: louise
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/woman-thinking.jpg'
 ---
 
 _[This post is the third of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October.]_
@@ -38,6 +41,9 @@ I see invisibility shrouding women one short generation after the battle for sex
 Calling women birthing parents, menstruators and ‘people going through the menopause’, is not only dehumanising and insulting but it has the catastrophic psychological effect of dividing women from each other. What does a menstruator have in common with a ‘person experiencing the menopause’ or with a 70-year-old cervix-haver or with a birthing parent? Unless we can say without any qualification that ‘of course they are all women’, the effect is that they have nothing in common other than their humanity which we share with boys and men, and we have broken the cherished link that all girls and women, young and old, mothers or childless, and with or without various reproductive experiences, have in common with each other as we pass from childhood to old age and which we do not share with any boy or man.
 
 I want SEEN to be a place in the Civil Service where women can say all of this without fear of censure and to remind every HR department and policy maker to think carefully about whether reducing women and girls to a multiplicity of body parts and functions is kind or inclusive at all.  
+
+**Cover image:**  "Thinking woman" by pacogaitero is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse.
+
 
 -----------------------
 
