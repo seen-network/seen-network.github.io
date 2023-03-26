@@ -121,9 +121,9 @@ _15 Feb 2023: corrected Section 28 Sentence repeal year for England and Wales, a
 
 [^10]: [https://www.historytoday.com/miscellanies/blasphemy-trial](https://www.historytoday.com/miscellanies/blasphemy-trial)
 
-[^11]: [https://en.wikipedia.org/wiki/Criminal_Justice_(Scotland)_Act_1980](https://en.wikipedia.org/wiki/Criminal_Justice_(Scotland)_Act_1980)
+[^11]: [https://en.wikipedia.org/wiki/Criminal_Justice_Scotland_Act_1980](https://en.wikipedia.org/wiki/Criminal_Justice_(Scotland)_Act_1980)
 
-[^12]: https://images.app.goo.gl/CEYkpzX3YdV9nVyG7
+[^12]: [https://images.app.goo.gl/CEYkpzX3YdV9nVyG7](https://images.app.goo.gl/CEYkpzX3YdV9nVyG7)
 
 [^13]: [https://www.youtube.com/watch?v=iroty5zwOVw](https://www.youtube.com/watch?v=iroty5zwOVw)
 
