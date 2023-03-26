@@ -1963,8 +1963,7 @@ Usage (In Ghost editor):
 }
 
 .site-nav-logo img {
-    /* border: solid 3px rgba(255,255,255,0.2); */
-    border: solid 2px #656494;
+    border: solid 2px #666;
     margin: 1px;
 }
 
