@@ -4,6 +4,8 @@ title: 'FAQs'
 navigation: True
 logo: 'assets/images/seen-logo-light.png'
 current: faq
+class: page-template
+subclass: 'post page'
 ---
 
 - [What is SEEN’s mission?](./#what-is-seens-mission)

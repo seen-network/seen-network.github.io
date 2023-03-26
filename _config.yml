@@ -1,30 +1,55 @@
 # Jekyll configuration
-#markdown: redcarpet
-#highlighter: pygments
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 100 # it will paginate after this number
 language: 'en-uk'
+words_per_minute: 200
 
-# Website info
-name: "Sex Equality and Equity Network"
-description: "Sex Equality and Equity Network"
-
-short_url: 'seen-network.uk'
-# google_analytics: ''
-# disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
-url: "https://seen-network.uk" # the base hostname & protocol for your site, e.g. http://example.com
+home: "https://seen-network.uk"
+short_url: 'seen-network.uk'
+
+# Website info
+title: SEEN
+description: Sex Equality and Equity Network
+cover: assets/images/seen-logo-notitle-lg.png
+logo: assets/images/seen-logo-notitle-lg.png
+logo_light: assets/images/seen-logo-notitle-lg.png
+favicon: assets/images/favicon.ico
+
+CNAME: #add cname for website to be created
+
+# Social info
+navigation: True # show the navbar links
+subscribers: False # you need to connect an external service for this to work,
+# if 'True' the submit button is disabled for now, but you can change that
+# by editing `_includes/subscribe-form.html`
+twitter: seen_network # replace by your username
+facebook: False # replace by your username
+
+# Disqus
+disqus: False
+# disqus_shortname: jekyllt # replace with your disqus username
+
+# Google Analytics
+# google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
 # permalink: /:title
-permalink: /posts%2f:year-:month-:day-:title/
-# permalink: /author/:username
+# permalink: /author/:author
 # permalink: /tag/:tag
+permalink: /posts/:year-:month-:day-:title/
+
+# Authors' info in `_data/authors.yml`
+# Tags' info in `_data/tags_info.yml`
 
 # gems and other configs
-plugins: [jekyll-paginate]
+plugins_dir: [_plugins]
+plugins: [jekyll-paginate, jekyll-feed]
+
+feed:
+  path: feed.xml
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
@@ -34,8 +59,7 @@ plugins: [jekyll-paginate]
 # Disqus comments as a per-post basis
 # ...
 
-
-# Settings for builing master branch with travis-ci
+# Settings for building master branch with travis-ci
 # with jekyll-travis
 
 # Settings for deploy rake task
@@ -45,28 +69,33 @@ plugins: [jekyll-paginate]
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: false
-lsi: false
+safe: False
+lsi: False
 username: seen-network
 repo: seen-network.github.io
 branch: main
 relative_source: ../
 destination: ./_site/
-# production_url:  https://seen-network.uk/
-# source_url:  https://github.com/seen-network/
-future: true
+# production_url:  https://jekyllt.github.io/jasper2/
+# source_url:  https://github.com/jekyllt/jasper2/
 
 exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
+  - node_modules
   - vendor
   - .travis.yml
-  - node_modules
-  - .git
+  - Gemfile
+  - Gemfile.lock
+  - GHOST.txt
+  - gulpfile.js
+  - LICENSE
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README.md
+  - script.py
+  - changelog.md
+  - "*.Rmd"
+  - .git*
   - drafts
 
 defaults:
@@ -75,6 +104,10 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: posts # Apply the default values below only to posts
     values:
-      cover: 'assets/images/white-background.jpg'
-      logo: 'assets/images/seen-logo-light.png'
-      navigation: True
+      cover: assets/images/default.jpg
+      logo: 'assets/images/seen-logo-notitle-light-lg.jpg'
+  # - scope:
+  #     path: ""
+  #     type: tags
+  #   values:
+  #     navigation: True

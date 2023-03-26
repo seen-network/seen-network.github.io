@@ -5,9 +5,12 @@ subtitle: "Equity for women in the playground"
 date: 2023-03-08
 future: true
 tags: ["personal experience","equality"]
-subclass: 'post'
 author: unseen
 categories: unseen
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/playground.jpg'
 ---
 
 At my mixed-sex primary school, our playground consisted simply of one big rectangle made of concrete. The playground didn’t have any lines marked on it, and it had no goal posts. And yet every playtime and lunchtime, it became a football pitch for the boys, the goals marked by their grubby jumpers. God help you if you were a boy who didn’t like football, but that’s another story. We girls gathered around the edges, chatting, skipping, cartwheeling, or playing endless games of catch. If we strayed onto the football pitch, the boys met us with shouts and shoves. When the football got kicked out, we were expected to toss it back to the boys in the right direction.  Occasionally a particularly bolshy girl (future feminists of the UK? You know who you are, ladies) would boot the football away into the car-park and then all hell would break loose.
@@ -38,3 +41,6 @@ Finally… please join us in taking 3 minutes right now to celebrate Internation
 - Teenage girls and neurodiversity - [https://seen-network.uk/posts/2023-02-27-why-is-seen-important-to-me-iv/](/posts/2023-02-27-why-is-seen-important-to-me-iv/)
 - Being a woman - [https://seen-network.uk/posts/2023-01-25-why-is-seen-important-to-me-iii/](/posts/2023-01-25-why-is-seen-important-to-me-iii/)
 - Violence against women - [https://seen-network.uk/posts/2022-11-25-ending-violence-against-women/](/posts/2022-11-25-ending-violence-against-women/)
+
+
+**Cover image:** "Students take a break from school on the playground" by World Bank Photo Collection is licensed under CC BY-NC-ND 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd-nc/2.0/jp/?ref=openverse. 

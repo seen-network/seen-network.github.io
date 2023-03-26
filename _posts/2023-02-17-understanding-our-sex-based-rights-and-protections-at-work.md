@@ -4,9 +4,12 @@ title: "Understanding our sex-based rights and protections at work"
 date: 2023-02-17
 future: true
 tags: ["civil service","equality act 2010","sex based rights","EHRC"]
-subclass: post
 author: seen
 categories: seen
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/equal-pay.jpg'
 ---
 
 We hear often from colleagues concerned that HR teams, management and staff training providers have made mistakes when they talk about equality law, and especially about sex-based rights and protections. 

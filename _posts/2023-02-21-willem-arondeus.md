@@ -3,12 +3,14 @@ layout: post
 title: "Willem Arondeus"
 date: 2023-02-21
 future: true
-tags: ["lesbian, gay and bisexual","sexual orientation","biography"]
-subclass: post
+tags: ["lesbian gay and bisexual","sexual orientation","biography"]
 author: bethany
 categories: bethany
 cover: assets/images/Willem_Arondeus_-_Salome_-_Metropolitan_Museum.jpg
 logo: 'assets/images/seen-logo-dark.png'
+navigation: True
+class: post-template
+subclass: 'post'
 ---
 
 This LGBT History Month we would like to invite a celebration of some lesser known heroes who don't always feature on the mainstream narrative.

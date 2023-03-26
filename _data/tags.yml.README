@@ -1,0 +1,9 @@
+personal-experience:
+    name: personal-experience
+    description: What happened to people
+    cover: assets/images/male-user.png
+  detransition:
+    name: detransition
+    description: People who come back
+    cover: False
+  

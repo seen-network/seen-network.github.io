@@ -4,9 +4,12 @@ title: "A network update"
 date: 2022-11-21
 future: true
 tags: network
-subclass: 'post'
 author: seen
 categories: seen
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/seen-blur.jpg'
 ---
 
 A quick post to update our supporters and other interested parties.  It has been quite a month since our launch event on October 20th!  We wanted to reassure you that while we may have been keeping quiet, we have been incredibly busy.

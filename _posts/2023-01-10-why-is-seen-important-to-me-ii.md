@@ -4,9 +4,12 @@ title: "Why SEEN is important to me (II)"
 date: 2023-01-10
 future: true
 tags: ["personal experience","sex discrimination","gender stereotyping","launch speeches"]
-subclass: post
 author: mary
 categories: mary
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/woman-thinking.jpg'
 ---
 
 _[This post is the second of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October. Named individuals are anonymised.]_
@@ -48,3 +51,5 @@ So I’ve set out why we are setting up this network and given you a flavour of 
 When you have heard from them we’d like to lead a more participative session about the network and its plans.  We’ll try to answer questions but please don’t ask for more personal information from our speakers.
 
 Finally, a note about context.  We want our network to recognise freedom of speech and hope you will feel comfortable to share your views.  I am sure you will all express yourselves sensitively though and bear in mind that this is a meeting of an official civil service network and so we need to abide by the Civil Service Code and conduct ourselves accordingly as I am sure you will.
+
+**Cover image:**  "Thinking woman" by pacogaitero is licensed under CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/?ref=openverse.

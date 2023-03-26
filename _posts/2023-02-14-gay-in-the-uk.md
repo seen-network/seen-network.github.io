@@ -3,10 +3,13 @@ layout: post
 title: "Gay in the UK"
 date: 2023-02-14
 future: true
-tags: ["lesbian, gay and bisexual","sexual orientation"]
-subclass: post
+tags: ["lesbian gay and bisexual","sexual orientation"]
 author: jimmy
 categories: jimmy
+navigation: True
+class: post-template
+subclass: 'post'
+cover: 'assets/images/gay-history.jpg'
 ---
 
 I have been delighted to write this blog for SEEN, for LGB(T) History Month.. This blog particularly focuses on a potted history of gay rights in the UK as they relate to gay men, but later in the month a 'sister' piece will be released focusing on lesbian history. The blog covers 500 years worth of history, and shows how the rights for gay men to live and love freely are an incredibly recent occurrence within the history of the UK, still very much in living memory.
@@ -93,6 +96,8 @@ For those that attended my speech at the SEEN launch event, or who have read the
 - [Illegal to be gay - Scotland's history (BBC News)](https://www.bbc.co.uk/news/uk-scotland-40731733)
 
 _15 Feb 2023: corrected Section 28 Sentence repeal year for England and Wales, and added Scotland repeal year._
+
+**Cover inage:** "Gay History Timeline" by mikecogh is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/?ref=openverse.
 
 #### References
 

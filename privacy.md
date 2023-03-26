@@ -4,6 +4,10 @@ title: 'Privacy'
 navigation: True
 logo: 'assets/images/seen-logo-light.png'
 current: privacy
+class: page-template
+subclass: 'post page'
+class: page-template
+subclass: 'post page'
 ---
 
 This notice sets out how we will use your personal data, and your rights. It is made under Articles 13 and/or 14 of the UK General Data Protection Regulation (UK GDPR). 
