@@ -54,3 +54,12 @@ ritchie:
   url: seen-network.uk
   bio: "I am a civil servant."
   assets: assets/images/male-user.svg
+mahalia:
+  username: mahalia
+  name: Mahalia
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a civil servant."
+  assets: assets/images/female-user.svg
+  
