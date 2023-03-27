@@ -4,7 +4,7 @@ title: "On tolerance"
 subtitle: "Why SEEN exists and has a place within the Civil Service"
 date: 2022-11-22
 future: true
-tags: [network,tolerance,pluralism,philosophy,Popper]
+tags: [network,tolerance,pluralism,philosophy,"diversity of belief"]
 author: seen
 categories: seen
 current: tolerance
