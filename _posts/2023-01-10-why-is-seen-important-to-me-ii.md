@@ -3,7 +3,7 @@ layout: post
 title: "Why SEEN is important to me (II)"
 date: 2023-01-10
 future: true
-tags: ["personal experience","sex discrimination","gender stereotyping","launch speeches"]
+tags: ["personal experience","sex discrimination","gender stereotyping","launch speeches","Why SEEN"]
 author: mary
 categories: mary
 navigation: True
