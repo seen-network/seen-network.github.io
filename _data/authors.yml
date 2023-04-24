@@ -62,4 +62,11 @@ mahalia:
   url: seen-network.uk
   bio: "I am a civil servant."
   assets: assets/images/female-user.svg
-  
+liz:
+  username: liz
+  name: Liz
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I work in the Youth Justice Board."
+  assets: assets/images/female-user.svg
