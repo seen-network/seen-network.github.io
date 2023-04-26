@@ -70,3 +70,11 @@ liz:
   url: seen-network.uk
   bio: "I work in the Youth Justice Board."
   assets: assets/images/female-user.svg
+jan:
+  username: jan
+  name: Jan
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a civil servant in the Department for Work and Pensions"
+  assets: assets/images/female-user.svg
