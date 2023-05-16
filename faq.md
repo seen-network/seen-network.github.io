@@ -18,6 +18,10 @@ subclass: 'post page'
 - [Why was SEEN set up?](./#why-was-seen-set-up)
 - [Is SEEN connected to any religious or faith groups or other groups? ](./#is-seen-connected-to-any-religious-or-faith-groups-or-other-groups)
 - [How does SEEN relate to other staff networks?](./#how-does-seen-relate-to-other-staff-networks)
+- [Are you that ‘gender critical’ network?](./#are-you-that-gender-critical-network)
+- [Does this mean SEEN is reducing people to their biology?](./#does-this-mean-seen-is-reducing-people-to-their-biology)
+- [Why does sex even matter?](./#why-does-sex-even-matter)
+- [What about the dignity and rights of others?](./#what-about-the-dignity-and-rights-of-others)
 
 -------------------
 
@@ -89,3 +93,30 @@ No. SEEN is an independent and secular network that is neither affiliated with t
 #### How does SEEN relate to other staff networks?
 
 SEEN believes in fairness, [tolerance and pluralism](/posts/2022-11-22-on-tolerance/). We welcome engagement and collaboration with other staff networks, recognising there will be areas of agreement and difference. SEEN strongly supports the commitment in the [Civil Service 2022-25 Diversity and Inclusion Strategy](https://www.gov.uk/government/publications/civil-service-diversity-and-inclusion-strategy-2022-to-2025/civil-service-diversity-and-inclusion-strategy-2022-to-2025-html) to increase the diversity of voices in our workplaces and to avoid and challenge groupthink.
+
+
+#### Are you that ‘gender critical’ network?
+
+Yes! SEEN is proud to represent gender critical staff across the Civil Service!  We are committed to the belief that:
+- Sex is binary and immutable;
+- Sex matters for both women and men in our everyday lives, including for our rights and needs in the workplace; and
+- Sex must not be conflated with, or replaced by, the concepts of gender or gender identity.
+
+This position is protected under the Equality Act 2010 and is sometimes described as ‘gender critical’.  But given how widespread this view is, it can also just be described as not holding a belief in the theory that everyone has a ‘gender identity’.
+
+
+#### Does this mean SEEN is reducing people to their biology?
+
+No!  SEEN celebrates diversity and freedom.  We celebrate everything that men and women can be or do, unrestricted by sexist expectations and stereotypes about what men or women should look like, feel or do.  There is no right way to act or dress as a woman or a man and we strongly resist such regressive expectations.
+
+We don’t think people should be reduced to a drop down list of identities.  Instead, we celebrate the immense diversity and difference that men and women can enjoy by just being who they are.
+
+#### Why does sex even matter?
+
+It isn’t always necessary to treat men and women differently.  But sometimes our rights and needs can only be met by offering different or separate treatment, including to, correct disadvantage and encourage participation.  Maternity rights, health care and sexual orientation are just some examples where sex matters.
+
+#### What about the dignity and rights of others?
+
+We respect all our colleagues and their own protected beliefs and characteristics and we support everyone’s existing legal rights in the workplace.  As with other networks, SEEN seeks only to manifest our protected beliefs in a lawful manner and in accordance with the Civil Service Code.
+
+SEEN forms part of the valuable diversity within the Civil Service, and we strongly support fairness, [tolerance and pluralism](/posts/2022-11-22-on-tolerance/).  We want a workplace where colleagues can work in harmony, despite different perspectives.  We believe this is best achieved through open discussion and respectful dialogue.
