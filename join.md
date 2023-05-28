@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Use the form below to apply to become a member of SEEN.  Please first see our [guidance on who can join](/faq/#who-is-seen-for).  **Note we restrict our responses to membership enquiries to those from email addresses from eligible official organisations**.  Our **[privacy policy](/privacy/)** details how your data will be handled.
+Use the form below to apply to become a member of SEEN.  Please first see our [guidance on who can join](/faq/#who-is-seen-for).  **Note we restrict our responses to membership enquiries to those from email addresses from eligible official organisations**.  Our **[privacy policy](/privacy/)** details how your data will be handled.  Please know that protecting our members' identities is a top priority for us.
 
 When you submit the request you will receive an email to confirm your wish to join.  Once you have confirmed there may be a delay for a few days before we can manually verify your eligibility.  For most eligible applicants this is based on your email domain.
 
