@@ -70,12 +70,12 @@ Equality and equity are complementary concepts of fairness, appropriate to diffe
 
 The Equality Act 2010 covers the whole UK and provides a legal framework to prevent people acting on their prejudices or disagreements in a way that results in discriminatory treatment of others. Every one of us is covered by at least several of the protected characteristics in the Equality Act and derives rights from them. The nine protected characteristics are: Age; Disability; Gender reassignment; Marriage and civil partnership; Pregnancy and maternity; Race; Religion or belief (includes lack of religion or belief); Sex; Sexual Orientation.
 
-You can read about your rights on the website of the [Equality and Human Rights Commission](https://www.equalityhumanrights.com/en/equality-act/equality-act-2010), the UK’s independent watchdog on equality and human rights law.
+You can read about your rights on the website of the [Equality and Human Rights Commission](https://www.equalityhumanrights.com/en/equality-act/equality-act-2010), the UK’s independent watchdog on equality and human rights law.  See also our blog post _[Understanding our sex-based rights and protections at work](/posts/2023-02-17-understanding-our-sex-based-rights-and-protections-at-work/)_.
 
 
 #### What are sex-based rights?
 
-By sex-based rights we mean the rights enshrined in the Equality Act 2010 and other applicable law that relates specifically to biological sex.  Such law permits lawful discrimination in certain circumstances, provided it is a proportionate means to achieve a legitimate aim, such as to meet particular male and female needs, to correct disadvantage, or to encourage participation.  Specific examples include pregnancy and maternity rights, men’s health workshops, and girls-only football teams.  The protection against unlawful discrimination on the ground of sexual orientation also depends on sex, since sexual orientation is defined specifically in terms of sex.
+By sex-based rights we mean the rights enshrined in the Equality Act 2010 and other applicable law that relates specifically to biological sex.  Such law permits lawful discrimination in certain circumstances, provided it is a proportionate means to achieve a legitimate aim, such as to meet particular male and female needs, to correct disadvantage, or to encourage participation.  Specific examples include pregnancy and maternity rights, men’s health workshops, and girls-only football teams.  The protection against unlawful discrimination on the ground of sexual orientation also depends on sex, since sexual orientation is defined specifically in terms of sex.  See also our blog post _[Understanding our sex-based rights and protections at work](/posts/2023-02-17-understanding-our-sex-based-rights-and-protections-at-work/)_.
 
 
 #### Why was SEEN set up?
