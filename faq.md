@@ -70,7 +70,7 @@ Equality and equity are complementary concepts of fairness, appropriate to diffe
 
 The Equality Act 2010 covers the whole UK and provides a legal framework to prevent people acting on their prejudices or disagreements in a way that results in discriminatory treatment of others. Every one of us is covered by at least several of the protected characteristics in the Equality Act and derives rights from them. The nine protected characteristics are: Age; Disability; Gender reassignment; Marriage and civil partnership; Pregnancy and maternity; Race; Religion or belief (includes lack of religion or belief); Sex; Sexual Orientation.
 
-You can read about your rights on the website of the [Equality and Human Rights Commission](https://www.equalityhumanrights.com/en/equality-act/equality-act-2010), the UK’s independent watchdog on equality and human rights law.  See also our blog post _[Understanding our sex-based rights and protections at work](/posts/2023-02-17-understanding-our-sex-based-rights-and-protections-at-work/)_.
+You can read about your rights on the website of the [Equality and Human Rights Commission](https://www.equalityhumanrights.com/en/equality-act/equality-act-2010), the UK’s independent watchdog on equality and human rights law.  See also our [blog posts on UK equality law](/tag/equality-act-2010/).
 
 
 #### What are sex-based rights?
