@@ -12,7 +12,7 @@ subclass: 'post'
 cover: 'assets/images/man-thinking.jpg'
 ---
 
-_[This post is the first of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October.]_
+_[This post is the first of [four speeches by SEEN members](/tag/launch-speeches/) from our launch event in October.]_
 
 Why is SEEN important to me? To explain this, I need to go back in time.
 

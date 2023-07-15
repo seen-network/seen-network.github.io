@@ -12,7 +12,7 @@ subclass: 'post'
 cover: 'assets/images/woman-thinking.jpg'
 ---
 
-_[This post is the last of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October. The author wishes to remain anonymous.]_
+_[This post is the last of [four speeches by SEEN members](/tag/launch-speeches/) from our launch event in October. The author wishes to remain anonymous.]_
 
 Most people have a favourite Harry Potter character.  For some it’s Hermione, others perhaps Dumbledore.  I’ve always been a Luna Lovegood fan.  I liked the fact she floats slightly off synch and doesn’t care for others’ approval.  I liked the fact that she speaks the truth.  I like the fact that she doesn’t mind that she doesn’t fit.
 

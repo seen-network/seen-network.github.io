@@ -12,7 +12,7 @@ subclass: 'post'
 cover: 'assets/images/woman-thinking.jpg'
 ---
 
-_[This post is the third of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October.]_
+_[This post is the third of [four speeches by SEEN members](/tag/launch-speeches/) from our launch event in October.]_
 
 ### _The Loss of the Word Woman_
 
