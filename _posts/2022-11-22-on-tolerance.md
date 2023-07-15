@@ -54,7 +54,7 @@ We do not have to share beliefs in order to tolerate them. We live in a pluralis
 
 As Civil Servants we are bound by the Civil Service Code which requires political neutrality. So it is not appropriate for us to express views on matters of political controversy at work; we abide by that restriction and expect others to do likewise. We therefore only assert our right for our views to be heard with tolerance in respect of matters relevant to the workplace. Sometimes it will be necessary to explain the underlying beliefs in order to exercise our rights at work.
 
-The 2022 Civil Service Diversity and Inclusion Strategy[^12] makes a specific commitment to challenging groupthink and inspiring a greater diversity of thinking. SEEN is committed to working to ensure that departmental policies for human resources and diversity and inclusion, as well as their implementation, reflect this commitment. If you support our [mission and values](/faq/#what-is-seens-mission) consider [joining us](/contact/).
+The 2022 Civil Service Diversity and Inclusion Strategy[^12] makes a specific commitment to challenging groupthink and inspiring a greater diversity of thinking. SEEN is committed to working to ensure that departmental policies for human resources and diversity and inclusion, as well as their implementation, reflect this commitment. If you support our [mission and values](/faq/#what-is-seens-mission) consider [joining us](/join/).
 
 [Cover image: [source](https://pixabay.com/photos/exhibition-visitors-gallery-viewer-2944064/), [licence](https://pixabay.com/service/terms/)]
 
