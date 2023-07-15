@@ -12,7 +12,7 @@ subclass: 'post'
 cover: 'assets/images/woman-thinking.jpg'
 ---
 
-_[This post is the second of [four speeches by SEEN members](/tag/launch%20speeches/) from our launch event in October. Named individuals are anonymised.]_
+_[This post is the second of [four speeches by SEEN members](/tag/launch-speeches/) from our launch event in October. Named individuals are anonymised.]_
 
 Good afternoon everyone, I am one of the Co-Chairs of the new Network.  It gives me great pleasure, on behalf of myself, my-Co-Chairs and the rest of our steering group, to welcome you all today to the first meeting of the new Civil Service Sex Equality and Equity Network and I’d like to thank you all for coming.  I’ve opened and chaired meetings with that form of words on many occasions, but it has rarely been so whole-heartedly true as it is today.  This gathering and the formation of this network is something that a group of us have been looking forward to for quite a while.  We have all, for different reasons, felt that there has been a gap in the activities that take place to promote diversity in the Civil Service in that they do not recognise the existence and legitimacy of those of us who consider that there will always be circumstances where sex is important.
 
