@@ -110,8 +110,7 @@ body {
     padding-top: 12px;
     padding-bottom: 12px;
     color: #fff;
-    /* background: color(var(--darkgrey) l(-5%)) no-repeat center center; */
-    background: #666;
+    background: linear-gradient(#222230, #333333);
     background-size: cover;
 }
 
@@ -124,7 +123,6 @@ body {
     left: 0;
     z-index: 10;
     display: block;
-    background: rgba(0,0,0,0.18);
 }
 
 .site-header:after {
@@ -137,8 +135,6 @@ body {
     z-index: 10;
     display: block;
     height: 62px;
-    background: #222;
-    /* background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0)); */
 }
 
 /* .site-header.no-cover:before,
