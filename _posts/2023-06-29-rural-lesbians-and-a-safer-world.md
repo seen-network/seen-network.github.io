@@ -33,4 +33,4 @@ Those years hold bittersweet memories of struggle, insight, joy, fellowship and 
 
 ------------------
   
-**Cover image**: [Peter Musk](https://unsplash.com/photos/nAizdTpHUTM), [Unsplash license](https://unsplash.com/license)
+**Cover image**: [Peter Musk](https://unsplash.com/photos/nAizdTpHUTM) on [Unsplash](https://unsplash.com/license)

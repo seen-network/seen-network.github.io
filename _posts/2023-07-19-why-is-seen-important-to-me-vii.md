@@ -27,4 +27,4 @@ We are all afforded protections in law to prevent us from suffering from discrim
 
 ---------------------
 
-**Cover image**: [Nadine Shaabana](https://unsplash.com/photos/DRzYMtae-vA), [Unsplash license](https://unsplash.com/license)
+**Cover image**: [Nadine Shaabana](https://unsplash.com/photos/DRzYMtae-vA) on [Unsplash](https://unsplash.com/license)
