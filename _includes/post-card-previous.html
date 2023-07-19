@@ -20,6 +20,11 @@
                     {% endif %} -->
 
                     <h2 class="post-card-title">{{ page.previous.title }}</h2>
+
+                    {% if page.previous.subtitle %}
+                        <h3 class="post-card-title">{{ page.previous.subtitle }}</h3>
+                    {% endif %}
+
                 </header>
                 <section class="post-card-excerpt">
                     {% if page.previous.excerpt %}
@@ -31,7 +36,7 @@
             </a>
             <footer class="post-card-meta">
 
-                <span class="post-card-authline">
+                <!-- <span class="post-card-authline">
                 {% if page.previous.tags.size > 0 %}
                         {% for tag in page.previous.tags %}
                             {% if forloop.index == page.previous.tags.size %}
@@ -41,7 +46,7 @@
                             {% endif %}
                         {% endfor %}
                     {% endif %}
-                </span>
+                </span> -->
 
                 {% for author in site.data.authors %}
                     {% if author[1].username == page.previous.author %}
