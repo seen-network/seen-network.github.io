@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why SEEN is important to me (VII)"
+title: "Why SEEN is important to me (vii)"
 subtitle: "What about my identity?"
 date: 2023-07-19
 future: true

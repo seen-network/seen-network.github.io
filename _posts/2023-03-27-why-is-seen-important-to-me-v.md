@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why SEEN is important to me (V)"
+title: "Why SEEN is important to me (v)"
 subtitle: "Experience and Worries in The Workplace"
 date: 2023-03-27
 future: true
