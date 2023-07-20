@@ -20,6 +20,7 @@ production stylesheet in assets/built/screen.css
 9.  Error Template
 10. Subscribe Overlay
 11. Site Footer
+12. Custom
 
 */
 
@@ -450,7 +451,8 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 }
 
 .post-card-excerpt {
-    font-family: Georgia, serif;
+    font-family: seenfont, Georgia, serif;
+    margin-top: 15px;
 }
 
 .post-card-meta {
@@ -572,7 +574,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 @media (max-width: 500px) {
     .post-full-header {
-        padding: 7vw 3vw 10vw;
+        padding: 7vw 3vw 4vw;
     }
 }
 
@@ -592,13 +594,18 @@ The first (most recent) post in the list is styled to be bigger than the others 
 
 .post-full-title {
     margin: 0;
-    margin-top: 0.3em;
+    margin-top: 1em;
     color: color(var(--darkgrey) l(-5%));
+    font-size: 4rem;
+    font-family: seenfont, Georgia, serif;
+    line-height: 140%;
 }
 
 .post-full-subtitle {
     font-size: 2.8rem;
-    margin-top: 0.7em;
+    margin-top: 0.8em;
+    font-family: seenfont, Georgia, serif;
+    line-height: 140%;
 }
 
 .date-divider {
@@ -633,7 +640,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     margin: 0 auto;
     padding: 70px 100px 0;
     min-height: 230px;
-    font-family: Georgia, serif;
+    font-family: seenfont, Georgia, serif;
     font-size: 2.2rem;
     line-height: 1.6em;
     background: #fff;
@@ -875,7 +882,7 @@ Usage (In Ghost editor):
 .post-full-content h5,
 .post-full-content h6 {
     color: color(var(--darkgrey) l(-5%));
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: seenfont, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 .post-full-content h1 {
@@ -928,7 +935,7 @@ Usage (In Ghost editor):
     padding: 1em 0 1.5em;
     border: 0;
     color: var(--blue);
-    font-family: Georgia,serif;
+    font-family: seenfont, Georgia,serif;
     font-size: 3.2rem;
     line-height: 1.35em;
     text-align: center;
@@ -1008,7 +1015,7 @@ Usage (In Ghost editor):
     width: auto;
     border-spacing: 0;
     border-collapse: collapse;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-family: seenfont, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
     font-size: 1.6rem;
     white-space: nowrap;
     vertical-align: top;
@@ -1946,6 +1953,10 @@ Usage (In Ghost editor):
     color: #555 !important;
 }
 
+.post-author-header {
+    margin-bottom: 1.5em;
+}
+
 .site-header {
     background-color: rgba(54,54,54,1);
 }
@@ -1963,6 +1974,17 @@ Usage (In Ghost editor):
     margin: 1px;
 }
 
+.post-card-header * {
+    font-family: seenfont, Georgia,serif;
+    line-height: 130%;
+    font-weight: bold;
+}
+
+.post-card-excerpt * {
+    font-family: seenfont, Georgia,serif;
+    line-height: 160%;
+}
+
 .post-card-authline {
     display: block;
 }
@@ -1973,3 +1995,10 @@ hr {
 
 .footnote:before { content: " ["; }
 .footnote:after { content: "]"; }
+
+/* custom font */
+@font-face {
+    font-family: seenfont;
+    size-adjust: 115%;
+    src: url(/assets/fonts/Adobe-Caslon-Pro/Adobe-Caslon-Pro-Regular/Adobe-Caslon-Pro-Regular.ttf);
+}
