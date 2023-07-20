@@ -22,4 +22,4 @@ We also aim to be a source of expertise for staff on the protected characteristi
 
 **SEEN membership** is open to UK civil servants and public sector staff - from central and devolved government departments, agencies, and their associated public bodies including arm’s length bodies - who support our mission and share our values.  For more detail please see our [guidance on who can join](/faq/#who-is-seen-for).
 
-If you would like to contact us, learn more about our mission, or be added to our mailing list, **[please get in touch](/contact/)**.  See also our **[FAQ page](/faq/)**.  And follow us on Twitter [@seen_network](https://twitter.com/seen_network/).
+If you are **interested in joining us [please see here](/join/)**. If you would like to contact us, learn more about our mission, or be added to our mailing list, **[please get in touch](/contact/)**.  See also our **[FAQ page](/faq/)**.  And follow us on Twitter [@seen_network](https://twitter.com/seen_network/).
