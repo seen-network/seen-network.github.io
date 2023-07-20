@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why SEEN is important to me (VI)"
+title: "Why SEEN is important to me (vi)"
 subtitle: "Women at work: equal pay and health and safety, 1888 and now"
 date: 2023-04-24
 future: true

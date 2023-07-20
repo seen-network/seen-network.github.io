@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why SEEN is important to me (II)"
+title: "Why SEEN is important to me (ii)"
 date: 2023-01-10
 future: true
 tags: ["personal experience","sex discrimination","gender stereotyping","launch speeches","Why SEEN"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why SEEN is important to me (IV)"
+title: "Why SEEN is important to me (iv)"
 date: 2023-02-27
 future: true
 tags: ["personal experience","neurodiverse","coming of age","launch speeches","Why SEEN"]
