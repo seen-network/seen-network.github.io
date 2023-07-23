@@ -1965,9 +1965,9 @@ Usage (In Ghost editor):
     height:45px;
 }
 
-.site-logo {
+/* .site-logo {
     background-color: rgba(25,25,25,1);
-}
+} */
 
 .site-nav-logo img {
     border: solid 2px #666;
