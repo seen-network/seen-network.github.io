@@ -1283,7 +1283,7 @@ Usage (In Ghost editor):
     bottom: 0;
     left: 0;
     display: block;
-    background: linear-gradient(135deg, rgba(0,40,60,0.8) 0%,rgba(0,20,40,0.7) 100%);
+    background: linear-gradient(135deg, var(--purple) 30%, var(--green) 100%); /* custom */
     border-radius: 5px;
 
     backdrop-filter: blur(2px);
