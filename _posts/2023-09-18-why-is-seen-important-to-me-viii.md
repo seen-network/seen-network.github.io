@@ -3,7 +3,7 @@ layout: post
 title: "Why SEEN is important to me (viii)"
 date: 2023-09-17
 future: true
-tags: ["sexual orientation", "lesbian gay and bisexual"]
+tags: ["sexual orientation", "lesbian gay and bisexual", "Why SEEN"]
 author: unseen
 categories: unseen
 navigation: True
