@@ -2010,3 +2010,7 @@ hr {
     size-adjust: 115%;
     src: url(/assets/fonts/Adobe-Caslon-Pro/Adobe-Caslon-Pro-Regular/Adobe-Caslon-Pro-Regular.ttf);
 }
+
+*:target {
+    scroll-margin-top: 70px;
+}
