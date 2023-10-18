@@ -40,7 +40,7 @@ Many of our members see stating pronouns as a clear indicator of a belief in gen
 
 Over a third of respondents highlighted how they believed the pushing / attempted enforcement of gender identity beliefs was having a detrimental effect on the rights of women in the workplace. Notably, a number of women in STEM from the MOD highlighted this, including Liz and Clare. Liz said:
 
-> ‘As a female in engineering, I am normally in the minority.  Although overt sexism within engineering is no way near as bad as it once was, use of pronouns highlights that I’m not in the _‘boys club’_ as even now there is a general belief that engineering is not for women.’
+> ‘As a female in engineering, I am normally in the minority.  Although overt sexism within engineering is no way near as bad as it once was, use of pronouns highlights that I’m not in the ‘boys club’ as even now there is a general belief that engineering is not for women.’
 
 Clare had this to say:
 
@@ -52,13 +52,13 @@ Many who highlighted this angle also expressed their concerns about how encourag
 
 #### Homophobia/LGBT concerns
 
-A number of gay and lesbian members also wrote to express that, in addition to sexism, they believed the practice was also a signpost for homophobia, such as _‘Anonymous, DWP who said:
+A number of gay and lesbian members also wrote to express that, in addition to sexism, they believed the practice was also a signpost for homophobia, such as _‘Anonymous, DWP’_ who said:
 
 > ‘Lesbians are being banned from creating lesbian only events. As a gay man, listing my pronouns would feel like publicly supporting an ideology that seeks to erase gays and lesbians.’
  
 Several members also expressed their concerns for those who have gender dysphoria or are struggling with issues around identity, and how the enforcement of this practice may make them uncomfortable, such as _‘Anonymous from DEFRA’_ who said:
 
-> ‘I worry that encouraging people to add pronouns to emails or provide them in introductions places undue pressure on those who are still working through issues of gender dysphoria. It’s not work’s place to _‘out’_ people in this way.’
+> ‘I worry that encouraging people to add pronouns to emails or provide them in introductions places undue pressure on those who are still working through issues of gender dysphoria. It’s not work’s place to ‘out’ people in this way.’
 
 Others highlighted that while the practice of pronoun declaration made them uncomfortable, they still had great sympathy for those struggling with gender dysphoria. 
 
@@ -72,7 +72,7 @@ _‘Anonymous from Scottish Government’_ said:
 
 While _‘Kate from DEFRA’_ commented:
 
-> ‘I also really feel for people with neurodivergence such as autism, I know a lot of folk are worried that they will accidentally misgender someone and with CS buying into the Stonewall narrative that accidentally _‘misgendering’_ someone is transphobic I worry that the pronoun pushing will get these folks in trouble and potentially on a disciplinary.’
+> ‘I also really feel for people with neurodivergence such as autism, I know a lot of folk are worried that they will accidentally misgender someone and with CS buying into the Stonewall narrative that accidentally ‘misgendering’ someone is transphobic I worry that the pronoun pushing will get these folks in trouble and potentially on a disciplinary.’
 
 #### A culture of fear
 
@@ -98,7 +98,7 @@ SEEN welcomes a plurality of views and opinions, and we also look to seek tolera
 
 _‘Will from MoJ’_ had this to say:
 
-> ‘Another potential benefit of having everyone record their pronouns on their profile is that should someone feel the need to challenge whether someone was using the _‘correct’_ facilities in the workplace because they were spending too much time in them themselves to mind their own business and return to work, they would be able to confirm how they identify against their profile (if they knew who the individual was) and avoid making a mistake in thinking someone was in a space they shouldn’t have been. If someone was to then bring an issue like this up to management etc to _‘deal with’_ they would be able to challenge back about what they themselves were doing in the facilities for so long to be able to notice when they should only be in those facilities to do their business and then return to work, ensuring everyone is protected from those who loiter in the facilities and report them to the police if necessary.’
+> ‘Another potential benefit of having everyone record their pronouns on their profile is that should someone feel the need to challenge whether someone was using the ‘correct’ facilities in the workplace because they were spending too much time in them themselves to mind their own business and return to work, they would be able to confirm how they identify against their profile (if they knew who the individual was) and avoid making a mistake in thinking someone was in a space they shouldn’t have been. If someone was to then bring an issue like this up to management etc to ‘deal with’ they would be able to challenge back about what they themselves were doing in the facilities for so long to be able to notice when they should only be in those facilities to do their business and then return to work, ensuring everyone is protected from those who loiter in the facilities and report them to the police if necessary.’
 
 _‘John (they/them) from MoJ’_ said:
 
@@ -106,7 +106,7 @@ _‘John (they/them) from MoJ’_ said:
 
 Many will have sympathy for John and will choose to add pronouns for the purpose of kindness.  However,  _‘Anonymous, DESNZ’_ has a different view of the result of such intentions:
 
-> My line manager, a pleasant bloke with young children, has _‘pronouns he/him’_ after his name on his email signature. Next to it, he has carefully made a hyperlink marked _‘Why do I do this?’, which links to a political blog about _‘allyship’. Whenever an email from him pops up, there also pops up the _‘pronouns he/him’. And every time his name and pronouns pop up on my screen, I get a lurch of dread in my stomach and fight back tears. My lovely, fragile young niece comes into my mind again, I feel helpless, and I can’t concentrate on my work. My teenaged, soon-to-be-adult niece, who has for years struggled with depression, anxiety and obsessive-compulsive disorder. We all helped and supported her as best as we could and hoped maturity and time would work its magic and foster her growing into the strong, healthy young woman we know she can be, just like a million awkward teenagers before her have grown up and worked it out.  Instead, she got caught up in the gender identity movement and is trapped in an alternate universe.
+> My line manager, a pleasant bloke with young children, has ‘pronouns he/him’ after his name on his email signature. Next to it, he has carefully made a hyperlink marked ‘Why do I do this?’, which links to a political blog about ‘allyship’. Whenever an email from him pops up, there also pops up the ‘pronouns he/him’. And every time his name and pronouns pop up on my screen, I get a lurch of dread in my stomach and fight back tears. My lovely, fragile young niece comes into my mind again, I feel helpless, and I can’t concentrate on my work. My teenaged, soon-to-be-adult niece, who has for years struggled with depression, anxiety and obsessive-compulsive disorder. We all helped and supported her as best as we could and hoped maturity and time would work its magic and foster her growing into the strong, healthy young woman we know she can be, just like a million awkward teenagers before her have grown up and worked it out.  Instead, she got caught up in the gender identity movement and is trapped in an alternate universe.
 > 
 > Now she feels ‘special’ and ‘chosen’, rather than just an awkward ugly duckling who got teased by the cool kids. Now she is praised for her ‘bravery’ by the cool kids at her new 6th Form and they tell her the rest of the world is against her and only her ‘allies’ will defend her.   [...]
 > 
@@ -114,8 +114,9 @@ Many will have sympathy for John and will choose to add pronouns for the purpose
 > 
 > Does my line manager know about girls like my niece? Every day, I think, I must talk to him. But what can I say, when our workplace policies allow and encourage ‘pronouns’? He has also been praised as ‘brave’, for being ‘a good ally to vulnerable people’. Does he know how this violent political movement of gender identity, that he so casually promotes with his ‘pronouns’, damages vulnerable girls like my niece? If he doesn’t know, why doesn’t he bother to find out? If he does know, how can he be so callous?
 
-We would like to thank you all for your honesty and engagement in this issue.  Watch out for Part 2 (coming soon).   
+We would like to thank you all for your honesty and engagement in this issue.  Watch out for Part 2 (coming soon).
 
+&nbsp;
 
 Cover by <a href="https://unsplash.com/@magicetea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ice Tea</a> on <a href="https://unsplash.com/photos/LXQeSfkY660?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
