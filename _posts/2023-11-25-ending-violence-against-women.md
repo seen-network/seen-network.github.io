@@ -12,15 +12,17 @@ subclass: 'post'
 cover: 'assets/images/unwomen-16days.jpg'
 ---
 
-For this year's _International Day for the Elimination of Violence against Women_ SEEN is publishing articles today and in coming days by four of our general members.
+For this year's _International Day for the Elimination of Violence against Women_ SEEN is publishing articles today and over the next few days by four of our general members (outside our network leadership team), three of whom must remain anonymous.
 
 **Trigger warning:** As these blogs are to mark the IDEVAW, they necessarily refer to violence against women including domestic abuse, rape and femicide.
 
-#### [#1  16 days of activism](/posts/2023-11-25-idevaw-16-days-of-activism/)
+#### [#1  _"16 days of activism"_](/posts/2023-11-25-idevaw-16-days-of-activism/)
 
-Our first post, by a colleague from our membership who must remain anonymous, sets out some of the very sobering facts around this _"oldest and most pervasive of problems"_, and delves into its societal context.
+Our first post sets out some of the very sobering facts around this _"oldest and most pervasive of problems"_, and delves into its societal context.
 
-#### #2 - to follow
+#### [#2  _"The judicial system is trying – is it succeeding?"_](/posts/2023-11-26-idevaw-is-the-judicial-system-succeeding/)
+
+Benjamyn Damazer in Department for Business & Trade reflects on the shifts he has witnessed in his long experience as a magistrate and special constable.
 
 #### #3 - to follow
 
