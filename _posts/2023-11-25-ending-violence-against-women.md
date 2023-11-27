@@ -24,7 +24,9 @@ Our first post sets out some of the very sobering facts around this _"oldest and
 
 Benjamyn Damazer in Department for Business & Trade reflects on the shifts he has witnessed in his long experience as a magistrate and special constable.
 
-#### #3 - to follow
+#### [#3  _"A personal account"_](/posts/2023-11-27-idevaw-a-personal-account/)
+
+A SEEN member shares the powerful and moving story of her experience survivng an abusive relationship, and its ongoing impact on her life.
 
 #### #4 - to follow
 
