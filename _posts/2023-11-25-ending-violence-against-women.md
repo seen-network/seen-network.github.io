@@ -28,7 +28,9 @@ Benjamyn Damazer in Department for Business & Trade reflects on the shifts he ha
 
 A SEEN member shares the powerful and moving story of her experience survivng an abusive relationship, and its ongoing impact on her life.
 
-#### #4 - to follow
+#### [#4 _"Language matters"_](/posts/2023-11-28-idevaw-language-matters/)
+
+The final post examines the recent trend towards censoring sex-based language - in particular _'woman'_ and _'women'_ - and how this hinders efforts to end violence against women and girls.
 
 &nbsp;
 
