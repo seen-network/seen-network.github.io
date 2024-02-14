@@ -3,7 +3,7 @@ layout: post
 title: "Understanding our sex-based rights and protections at work"
 date: 2023-02-17
 future: true
-tags: ["civil service","equality act 2010","sex based rights","EHRC"]
+tags: ["civil service","equality act 2010","sex based rights","ehrc"]
 author: seen
 categories: seen
 navigation: True

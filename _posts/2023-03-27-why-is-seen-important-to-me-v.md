@@ -4,7 +4,7 @@ title: "Why SEEN is important to me (v)"
 subtitle: "Experience and Worries in The Workplace"
 date: 2023-03-27
 future: true
-tags: ["personal experience","lesbian gay and bisexual","diversity of belief","Why SEEN"]
+tags: ["personal experience","lesbian gay and bisexual","diversity of belief","why seen"]
 author: mahalia
 categories: mahalia
 navigation: True

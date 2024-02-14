@@ -3,7 +3,7 @@ layout: post
 title: "Why SEEN is important to me (iii)"
 date: 2023-01-25
 future: true
-tags: ["personal experience","language","launch speeches","Why SEEN"]
+tags: ["personal experience","language","launch speeches","why seen"]
 author: louise
 categories: louise
 navigation: True
