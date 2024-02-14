@@ -4,7 +4,7 @@ title: "Why SEEN is important to me (vi)"
 subtitle: "Women at work: equal pay and health and safety, 1888 and now"
 date: 2023-04-24
 future: true
-tags: ["biography","sex based rights","equality","Why SEEN"]
+tags: ["biography","sex based rights","equality","why seen"]
 author: liz
 categories: liz
 navigation: True

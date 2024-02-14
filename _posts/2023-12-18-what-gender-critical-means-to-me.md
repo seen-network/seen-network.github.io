@@ -2,7 +2,7 @@
 layout: post
 title: "What gender critical means to me"
 date: 2023-12-18
-tags: ["diversity of belief", "language", "Why SEEN"]
+tags: ["diversity of belief", "language", "why seen"]
 author: unseen
 categories: unseen
 navigation: True

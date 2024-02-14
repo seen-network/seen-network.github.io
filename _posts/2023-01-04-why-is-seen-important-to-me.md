@@ -3,7 +3,7 @@ layout: post
 title: "Why SEEN is important to me (i)"
 date: 2023-01-04
 future: true
-tags: ["personal experience","lesbian gay and bisexual","sexual orientation","coming of age","launch speeches","Why SEEN"]
+tags: ["personal experience","lesbian gay and bisexual","sexual orientation","coming of age","launch speeches","why seen"]
 author: jimmy
 categories: jimmy
 navigation: True

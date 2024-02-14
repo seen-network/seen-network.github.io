@@ -2,7 +2,7 @@
 layout: post
 title: "Menopause: A radical perspective"
 date: 2024-01-17
-tags: ["diversity of belief", "language", "Why SEEN"]
+tags: ["diversity of belief", "language", "why seen"]
 author: unseen
 categories: unseen
 navigation: True
