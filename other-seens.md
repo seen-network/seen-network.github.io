@@ -24,7 +24,7 @@ We are the [Civil Service staff network](https://www.gov.uk/government/publicati
 
 #### SEEN in the City
 
-A private sector group based in the London financial sector.
+A UK-wide network focussed on advocating sex equality and equity in the private sector particularly financial services.
 
 <a href="https://x.com/SEENCityNetwork" target="_BLANK">@SEENCityNetwork</a>
 
