@@ -53,3 +53,11 @@ Sex Equality and Equity Network for all working in Parliament committed to promo
 <a href="https://twitter.com/SEENinParli/status/1762927027005391253" target="_BLANK">@seeninparli   </a>
 
 &nbsp;
+
+#### SEEN in STEM
+
+For sex-realists who work or study in STEM and believe reality matters for continuing scientific and technological discoveries.
+
+<a href="https://twitter.com/seenstem" target="_BLANK">@seenstem   </a>
+
+&nbsp;
