@@ -61,3 +61,12 @@ For sex-realists who work or study in STEM and believe reality matters for conti
 <a href="https://twitter.com/seenstem" target="_BLANK">@seenstem   </a>
 
 &nbsp;
+
+#### SEEN in Journalism
+
+A network for journalists and content-makers across platforms who seek to restore accuracy and impartiality to media coverage of sex and gender.
+
+<a href="https://twitter.com/JournalismSEEN" target="_BLANK">@JournalismSEEN</a>
+<a href="https://seeninjournalism.substack.com/" target="_BLANK">Substack</a>
+
+&nbsp;
