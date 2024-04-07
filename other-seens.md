@@ -73,6 +73,14 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://twitter.com/SportSEENuk' target = '_blank'>
+<img src="/assets/images/seeninsport.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN in Sport</h6>
+<p>For all players, coaches, officials and parents who believe that women and girl's sport should be for biological females only.</p>
+</a>
+</article>
+
 </section>
 </div>
 
