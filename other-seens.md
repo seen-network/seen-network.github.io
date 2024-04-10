@@ -81,6 +81,14 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://twitter.com/SEENinSchools' target = '_blank'>
+<img src="/assets/images/seeninteaching.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN in Teaching</h6>
+<p>We are a network of UK school staff (teachers and non-teaching) and governors committed to promoting sex equality and equity in schools.</p>
+</a>
+</article>
+
 </section>
 </div>
 
