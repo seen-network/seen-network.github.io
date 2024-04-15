@@ -245,7 +245,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .site-nav-logo img {
     display: block;
     width: auto;
-    height: 40px;
+    height: 50px;
 }
 
 .nav {
@@ -1177,6 +1177,8 @@ Usage (In Ghost editor):
     .nav li {
         font-size: 0.85rem;
     }
+
+    .site-nav-logo img { height: 40px; }
 }
 
 @media (max-width: 500px) {
@@ -1626,6 +1628,8 @@ Usage (In Ghost editor):
     .nav li {
         font-size: 0.75rem;
     }
+
+    .site-nav-logo img { height: 35px; }
 }
 
 
@@ -1999,11 +2003,6 @@ Usage (In Ghost editor):
 /* .site-logo {
     background-color: rgba(25,25,25,1);
 } */
-
-.site-nav-logo img {
-    border: solid 2px #666;
-    margin: 1px;
-}
 
 .post-card-header * {
     font-family: seenfont, Georgia,serif;
