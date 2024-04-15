@@ -124,6 +124,7 @@ body {
     left: 0;
     z-index: 10;
     display: block;
+    height: 0;
 }
 
 .site-header:after {
@@ -149,8 +150,8 @@ body {
     justify-content: center;
     align-items: center;
     padding: 8vw 4vw;
-    min-height: 200px;
-    max-height: 450px;
+    /* min-height: 200px; */
+    /* max-height: 450px; */
     text-align: center;
 }
 
@@ -198,7 +199,8 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     overflow-y: hidden;
-    height: 40px;
+    /* height: 40px; */
+    height: auto; /* manual nav control */
     font-size: 1.2rem;
 }
 
@@ -209,7 +211,7 @@ body {
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     margin-right: 10px;
-    padding-bottom: 80px;
+    /* padding-bottom: 80px; */
     letter-spacing: 0.4px;
     white-space: nowrap;
 
@@ -248,6 +250,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .nav {
     display: flex;
+    float: left; flex-wrap: wrap; /* wrapping navbar */
     margin: 0 0 0 -12px;
     padding: 0;
     list-style: none;
@@ -1012,6 +1015,10 @@ Usage (In Ghost editor):
     .post-full-content:after {
         display: none;
     }
+    /* custom nav menu sizing */
+    .nav li {
+        font-size: 0.8rem;
+    }
 }
 
 /* Tables */
@@ -1164,6 +1171,11 @@ Usage (In Ghost editor):
     }
     .subscribe-form p {
         font-size: 1.6rem;
+    }
+
+    /* custom nav menu sizing */
+    .nav li {
+        font-size: 0.85rem;
     }
 }
 
@@ -1598,11 +1610,21 @@ Usage (In Ghost editor):
     .floating-header-divider {
         visibility: hidden;
     }
+
+    /* custom nav menu sizing */
+    .nav li {
+        font-size: 0.9rem;
+    }
 }
 
 @media (max-width: 450px) {
     .floating-header-share-label {
         display: none;
+    }
+
+    /* custom nav menu sizing */
+    .nav li {
+        font-size: 0.75rem;
     }
 }
 
@@ -1969,9 +1991,10 @@ Usage (In Ghost editor):
     background-color: rgba(54,54,54,1);
 }
 
-.site-nav {
+/* manual nav control */
+/* .site-nav {
     height:45px;
-}
+} */
 
 /* .site-logo {
     background-color: rgba(25,25,25,1);
