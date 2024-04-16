@@ -159,6 +159,7 @@ Cover by <a href="https://unsplash.com/@magicetea?utm_content=creditCopyText&utm
             wordElement.innerText = word;
             wordElement.href = words[word];
             wordElement.target = '_blank';
+            wordElement.target = "this link opens in a new window";
             wordElement.style.left = (w * 0.1) + (Math.random() * w * 0.75) + 'px';
             wordElement.style.top = post_image.offsetTop + 60 + Math.random() * post_image.clientHeight * 0.7 + 'px';
             wordElement.style.color = '#000';
