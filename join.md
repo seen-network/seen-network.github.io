@@ -21,7 +21,7 @@ When you submit the request you will receive an email to confirm your wish to jo
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-    <form action="https://seen-network.us14.list-manage.com/subscribe/post?u=5d57946cb6bbd770cccb2e234&amp;id=9dec800d11&amp;f_id=00d810e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <form action="https://seen-network.us14.list-manage.com/subscribe/post?u=5d57946cb6bbd770cccb2e234&amp;id=9dec800d11&amp;f_id=00d810e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" aria-label="this link opens in a new window" novalidate>
         <div id="mc_embed_signup_scroll">
         <h2>Request to become a member</h2>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>

@@ -15,12 +15,12 @@ Feel free to print, display and share.
 <table>
 <tr>
     <td>
-        <a href="/assets/docs/seen-poster-1.pdf" target="_blank">
+        <a href="/assets/docs/seen-poster-1.pdf" target="_blank" aria-label="this link opens in a new window">
             <img src="/assets/docs/seen-poster-1.jpg" alt="SEEN poster 1" style="width:100%;">
         </a>
     </td>
     <td>
-        <a href="/assets/docs/seen-poster-2.pdf" target="_blank">
+        <a href="/assets/docs/seen-poster-2.pdf" target="_blank" aria-label="this link opens in a new window">
             <img src="/assets/docs/seen-poster-2.jpg" alt="SEEN poster 2" style="width:100%;">
         </a>
     </td>
