@@ -83,9 +83,17 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 
 <article class="card">
 <a href = 'https://twitter.com/SEENinSchools' target = '_blank' aria-label="this link opens in a new window">
-<img src="/assets/images/seeninteaching.jpg" alt="Avatar" style="width:100%">
-<h6>SEEN in Teaching</h6>
+<img src="/assets/images/seeninschools.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN in Schools</h6>
 <p>We are a network of UK school staff (teachers and non-teaching) and governors committed to promoting sex equality and equity in schools.</p>
+</a>
+</article>
+
+<article class="card">
+<a href = 'https://seeninhealth.org/' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seeninhealth.png" alt="Avatar" style="width:100%">
+<h6>SEEN in health</h6>
+<p>Our mission is to offer support to staff through a workplace network that works in partnership with NHS and other healthcare organisations.</p>
 </a>
 </article>
 
