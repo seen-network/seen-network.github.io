@@ -86,3 +86,11 @@ jan:
   url: seen-network.uk
   bio: "I am a civil servant in the Department for Work and Pensions"
   assets: assets/images/female-user.svg
+elspeth:
+  username: elspeth
+  name: Elspeth Duemmer Wrigley
+  location: United Kingdom
+  url_full: http://seen-network.uk
+  url: seen-network.uk
+  bio: "I am a Co-chair of SEEN"
+  assets: assets/images/female-user.svg
