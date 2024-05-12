@@ -3,8 +3,8 @@ layout: post
 title: "Impartiality and Finding Common Ground"
 date: 2023-11-21
 tags: [tolerance, "diversity of belief", "civil service", network]
-author: forseen
-categories: forseen
+author: elspeth
+categories: elspeth
 navigation: True
 class: post-template
 subclass: 'post'
