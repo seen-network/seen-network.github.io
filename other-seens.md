@@ -97,6 +97,14 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://x.com/LocalAuthSEEN' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seeninlocalauthority.png" alt="Avatar" style="width:100%">
+<h6>Local Authority SEEN</h6>
+<p>Local Authority SEEN is a network for UK local authority staff committed to promoting and supporting sex equality and equity in the workplace.</p>
+</a>
+</article>
+
 </section>
 </div>
 
