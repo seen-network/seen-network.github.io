@@ -50,7 +50,7 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://twitter.com/SEENinParli' target = '_blank' aria-label="this link opens in a new window">
+<a href = 'https://x.com/SEENinParli' target = '_blank' aria-label="this link opens in a new window">
 <img src="/assets/images/seeninparliament.jpg" alt="Avatar" style="width:100%">
 <h6>SEEN in Parliament</h6>
 <p>Sex Equality and Equity Network for all working in Parliament committed to promoting and supporting sex equality and equity between men and women.</p>
@@ -58,7 +58,7 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://twitter.com/seenstem' target = '_blank' aria-label="this link opens in a new window">
+<a href = 'https://x.com/seenstem' target = '_blank' aria-label="this link opens in a new window">
 <img src="/assets/images/seeninstem.jpg" alt="Avatar" style="width:100%">
 <h6>SEEN in STEM</h6>
 <p>For sex-realists who work or study in STEM and believe reality matters for continuing scientific and technological discoveries.</p>
@@ -66,7 +66,7 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://twitter.com/JournalismSEEN' target = '_blank' aria-label="this link opens in a new window">
+<a href = 'https://x.com/JournalismSEEN' target = '_blank' aria-label="this link opens in a new window">
 <img src="/assets/images/seeninjournalism.jpg" alt="Avatar" style="width:100%">
 <h6>SEEN in Journalism</h6>
 <p>A network for journalists and content-makers across platforms who seek to restore accuracy and impartiality to media coverage of sex and gender.</p>
@@ -74,7 +74,7 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://twitter.com/SportSEENuk' target = '_blank' aria-label="this link opens in a new window">
+<a href = 'https://x.com/SportSEENuk' target = '_blank' aria-label="this link opens in a new window">
 <img src="/assets/images/seeninsport.jpg" alt="Avatar" style="width:100%">
 <h6>SEEN in Sport</h6>
 <p>For all players, coaches, officials and parents who believe that women and girl's sport should be for biological females only.</p>
@@ -82,7 +82,7 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://twitter.com/SEENinSchools' target = '_blank' aria-label="this link opens in a new window">
+<a href = 'https://x.com/SEENinSchools' target = '_blank' aria-label="this link opens in a new window">
 <img src="/assets/images/seeninschools.jpg" alt="Avatar" style="width:100%">
 <h6>SEEN in Schools</h6>
 <p>We are a network of UK school staff (teachers and non-teaching) and governors committed to promoting sex equality and equity in schools.</p>
