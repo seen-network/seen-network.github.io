@@ -105,6 +105,14 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://x.com/SEENPublishing' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seenpublishing.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN in Publishing</h6>
+<p>SEEN in Publishing is a network of publishing professionals, authors and creatives concerned about the impact of gender identity theory on our sector and wider society.</p>
+</a>
+</article>
+
 </section>
 </div>
 
