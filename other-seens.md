@@ -113,6 +113,22 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://x.com/tu_seen' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seentu.png" alt="Avatar" style="width:100%">
+<h6>TU SEEN</h6>
+<p>A UK network for Trade Union members and representatives committed to promoting and supporting sex equality and equity.</p>
+</a>
+</article>
+
+<article class="card">
+<a href = 'https://twitter.com/SEENinRetail' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seeninretail.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN in Retail</h6>
+<p>Launched in March 2024 to advocate for sex equality and sex-based rights in the retail sector.</p>
+</a>
+</article>
+
 </section>
 </div>
 
