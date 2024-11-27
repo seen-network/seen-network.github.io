@@ -39,7 +39,7 @@ So this is the context for my own perspective on how we need, collectively, to r
 
 <p style="text-align: center;">•·················•·················•</p>
 
-Cover photo with kind permission from the wonderful <a href="https://www.instagram.com/p/Cp96DUXN2zV/">Jess De Wahls</a>.
+Cover photo with kind permission from the wonderful <a href="https://www.instagram.com/jessdewahls/">Jess De Wahls</a>.
 
 <style>
 .post-full-content {
