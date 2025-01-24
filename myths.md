@@ -83,7 +83,7 @@ Finally, we hope that by discussing such issues (respectfully and when appropria
 
 #### Myth 5: _“it is acceptable to equate gender critical views with transphobia and fascism, or those who hold them as being bigots, far right or far right adjacent or genocidal”_
 
-It really should not need to be said that this belief does not imply a hatred or fear of trans people and has no association or similarities with fascism.
+It really should not need to be said that these views do not imply a hatred or fear of trans people and has no association or similarities with fascism.
 
 To quote directly from the Employment Appeal Tribunal in Forstater [UKEAT/0105/20/JOJ para ]:-
 

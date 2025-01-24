@@ -36,8 +36,8 @@ SEEN’s values are set out in our mission statement and four Guiding Principles
 
 1. We are committed to ensuring that civil servants uphold the sex-based rights which support women’s and men’s rights and needs at work, including the protected characteristics of sex, pregnancy and maternity and sexual orientation set out in the Equality Act 2010; and that these rights are balanced against other rights, where lawful and necessary.
 2. We are committed to helping civil servants feel confident to exercise their rights under the European Convention of Human Rights to freedom of thought, conscience and religion, freedom of expression and freedom of assembly and association, provided they manifest their rights lawfully and respectfully and within the Civil Service Code.
-3. We are committed to the protected belief (covered by the protected characteristic of religion and belief in the Equality Act 2010) that biological sex is binary and immutable, that biological sex matters for both women and men in our everyday lives including for our rights and needs in the workplace, and that biological sex must not be conflated with the concepts of gender or gender identity. Civil servants who hold this protected belief must not be marginalised, disadvantaged or discriminated against.
-4. We are committed to helping our employers to meet their Public Sector Equality Duty, including to ‘foster good relations between people who share a protected characteristic and those who do not’, by encouraging a diversity of voices and open and respectful dialogue and [tolerance](/posts/2022-11-22-on-tolerance/) between those with differing beliefs and experiences.
+3. We understand biological sex to be binary and immutable, and that biological sex matters for both women and men in our everyday lives including for our rights and needs in the workplace, and that biological sex must not be conflated with the concepts of gender or gender identity. Civil servants who hold this protected belief must not be marginalised, disadvantaged or discriminated against.
+4. Protected beliefs are  covered by the protected characteristic of religion and belief in the Equality Act 2010. We are committed to helping our employers to meet their Public Sector Equality Duty, including to ‘foster good relations between people who share a protected characteristic and those who do not’, by encouraging a diversity of voices and open and respectful dialogue and [tolerance](/posts/2022-11-22-on-tolerance/) between those with differing beliefs and experiences.
 
 
 #### Who is SEEN for? 
@@ -97,7 +97,7 @@ SEEN believes in fairness, [tolerance and pluralism](/posts/2022-11-22-on-tolera
 
 #### Are you that ‘gender critical’ network?
 
-Yes! SEEN is proud to represent gender critical staff across the Civil Service!  We are committed to the belief that:
+Yes. SEEN is proud to represent gender critical staff across the Civil Service!   Our position is that:
 - Sex is binary and immutable;
 - Sex matters for both women and men in our everyday lives, including for our rights and needs in the workplace; and
 - Sex must not be conflated with, or replaced by, the concepts of gender or gender identity.
