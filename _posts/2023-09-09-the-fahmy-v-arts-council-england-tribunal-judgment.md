@@ -40,7 +40,7 @@ Many civil servants will have read and heard similar comments in their own workp
 
 This judgment suggests that they are right to be concerned, especially when managers and senior leaders themselves use similar language, or endorse (or ignore) such behaviour by their staff. In Ms Fahmy’s case, Simon Mellor, the ACE Deputy Chief Executive expressed the view in a staff meeting that LGB Alliance _“has a history of anti-trans activity”_.  In the words of the judgment, Mellor’s comments _“opened the door, for the subsequent petition and comments within that petition. Whether intended or not, it led to the petition”_.
 
-### What the Fahmy judgment means for the Civil Service
+### What the Fahmy judgment means
 
 The Fahmy judgment is not an appeal judgment, and so is therefore not in itself binding.  While it does not introduce any new principles of law it does give an important indication of the kind of comments and conduct likely to constitute bullying and harassment in the workplace of those with the protected characteristic of holding gender critical beliefs.  In this case, such comments included likening gender critical views to hate, transphobia or bigotry, and the suggestion that such lawful views should or will not be tolerated.
 
