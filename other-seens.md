@@ -122,7 +122,7 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://twitter.com/SEENinRetail' target = '_blank' aria-label="this link opens in a new window">
+<a href = 'https://x.com/SEENinRetail' target = '_blank' aria-label="this link opens in a new window">
 <img src="/assets/images/seeninretail.jpg" alt="Avatar" style="width:100%">
 <h6>SEEN in Retail</h6>
 <p>Launched in March 2024 to advocate for sex equality and sex-based rights in the retail sector.</p>
