@@ -137,6 +137,14 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://x.com/SEENintheCoE' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seeninthecoe.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN Network for the Church of England</h6>
+<p>Our priority is to support members and employees, including clergy, of the Church of England and those in communion with it, who wish to uphold sex-based rights and their freedom of expression to say so, while also respecting groups with different protected characteristics.</p>
+</a>
+</article>
+
 </section>
 </div>
 
