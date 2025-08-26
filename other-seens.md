@@ -148,6 +148,17 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href="https://x.com/ebswa" target="_blank" aria-label="this link opens in a new window">
+<img src="/assets/images/seeninsocialwork.jpg" alt="Avatar" style="width:100%" />
+<h6>EBSWA | SEEN in Social Work</h6>
+<p>EBSWA is committed to evidence-based practice on sex and gender, open discussion and professional curiosity. 
+    <a href="https://www.ebswa.org/" target="_blank">[website]</a>
+    <a href="https://x.com/ebswa" target="_blank">[X]</a>
+</p>
+</a>
+</article>
+
 </section>
 </div>
 
