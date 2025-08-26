@@ -74,10 +74,13 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </article>
 
 <article class="card">
-<a href = 'https://x.com/SportSEENuk' target = '_blank' aria-label="this link opens in a new window">
-<img src="/assets/images/seeninsport.jpg" alt="Avatar" style="width:100%">
+<a href="https://x.com/SportSEENuk" target="_blank" aria-label="this link opens in a new window">
+<img src="/assets/images/seeninsport.jpg" alt="Avatar" style="width:100%" />
 <h6>SEEN in Sport</h6>
-<p>For all players, coaches, officials and parents who believe that women and girl's sport should be for biological females only.</p>
+<p>For all players, coaches, officials and parents who believe that women and girl's sport should be for biological females only. 
+    <a href="https://seeninsport.org/" target="_blank">[website]</a>
+    <a href="https://x.com/SportSEENuk" target="_blank">[X]</a>
+</p>
 </a>
 </article>
 
