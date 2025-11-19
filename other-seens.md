@@ -159,6 +159,14 @@ This is a list of all Sex Equality and Equity Networks (or similar) that we are 
 </a>
 </article>
 
+<article class="card">
+<a href = 'https://www.seeninarts.co.uk/about' target = '_blank' aria-label="this link opens in a new window">
+<img src="/assets/images/seeninthearts.jpg" alt="Avatar" style="width:100%">
+<h6>SEEN in the Arts</h6>
+<p>SEEN in the Arts is a network of members who believe in the material reality of sex, and that everyone in the arts should be able to express legally-held views on sex and gender free from fear, harassment, discrimination and negative consequences.</p>
+</a>
+</article>
+
 </section>
 </div>
 
